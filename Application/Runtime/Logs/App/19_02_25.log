@@ -1,0 +1,54 @@
+[ 2019-02-25T11:35:26+08:00 ] 127.0.0.1 /Public/Admin/js/theme/default/laydate.css?v=5.0.9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+ERR: 无法加载控制器:Public
+
+[ 2019-02-25T11:36:35+08:00 ] 127.0.0.1 /Public/Admin/js/theme/default/laydate.css?v=5.0.9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+ERR: 无法加载控制器:Public
+
+[ 2019-02-25T11:36:40+08:00 ] 127.0.0.1 /Public/Admin/js/theme/default/laydate.css?v=5.0.9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001239s ]
+ERR: 无法加载控制器:Public
+
+[ 2019-02-25T11:40:06+08:00 ] 127.0.0.1 /Public/Admin/js/theme/default/laydate.css?v=5.0.9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+ERR: 无法加载控制器:Public
+
+[ 2019-02-25T11:40:28+08:00 ] 127.0.0.1 /Public/Admin/js/theme/default/laydate.css?v=5.0.9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+ERR: 无法加载控制器:Public
+
+[ 2019-02-25T11:42:34+08:00 ] 127.0.0.1 /Public/Admin/js/theme/default/laydate.css?v=5.0.9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+ERR: 无法加载控制器:Public
+

@@ -1,0 +1,34 @@
+<extend name="Base:base" />
+
+<block name="title"><title>测试项目</title></block>
+<block name="other_script_top"></block>
+
+<!-- 内容开始 -->
+<block name="content_main">
+	<!-- 输入A分 -->
+	a: <input id="a" onkeyup="changeInputB(this)" type="text" /><br><br>
+	<!-- 自动2倍输入B分 -->
+	b: <input id="b" type="text" /><br><br>
+
+	<!-- 输入小写字母释放键盘按钮立即变为大写 -->
+	c: <input id="c" onkeyup="changeInputC(this.id)" type="text" /><br><br>
+
+</block>
+<!-- 内容结束 -->
+
+<block name="other_script_down">
+	<script type="text/javascript">
+		// 编辑A框同时编辑B框
+		function changeInputB(obj){
+			//获得当前的input的值
+			// var a = obj.value * 2;
+			var a = document.getElementById('a').value * 2;
+			document.getElementById("b").value = a;
+		}
+		// 编辑C框，同时把C框小写字母变为大写
+		function changeInputC(obj) {
+			var c = document.getElementById('c').value;
+			document.getElementById('c').value = c.toUpperCase();
+		}
+	</script>
+</block>

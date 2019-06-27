@@ -1,0 +1,631 @@
+[ 2019-06-20T17:08:24+08:00 ] 127.0.0.1 /admin.php/test/identity.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003715s ]
+
+[ 2019-06-20T17:08:28+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+
+[ 2019-06-20T17:18:15+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+
+[ 2019-06-20T17:18:16+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects at least 2 parameters, 1 given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+
+[ 2019-06-20T17:18:41+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+
+[ 2019-06-20T17:19:19+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+NOTIC: [2] array_push() expects parameter 1 to be array, integer given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+
+[ 2019-06-20T17:19:31+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+
+[ 2019-06-20T17:20:39+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+
+[ 2019-06-20T17:21:12+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001339s ]
+
+[ 2019-06-20T17:21:20+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+
+[ 2019-06-20T17:22:58+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+NOTIC: [8] Undefined variable: tem H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+NOTIC: [8] Undefined variable: tem H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 855 行.
+
+[ 2019-06-20T17:24:50+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001181s ]
+
+[ 2019-06-20T17:26:42+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004219s ]
+
+[ 2019-06-20T17:28:50+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002026s ]
+
+[ 2019-06-20T17:31:55+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-06-20T17:31:56+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+
+[ 2019-06-20T17:31:57+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+
+[ 2019-06-20T17:33:36+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+
+[ 2019-06-20T17:33:37+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+
+[ 2019-06-20T17:33:37+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+
+[ 2019-06-20T17:34:01+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+
+[ 2019-06-20T17:39:35+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+
+[ 2019-06-20T17:39:36+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+
+[ 2019-06-20T17:39:37+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+
+[ 2019-06-20T17:42:50+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+
+[ 2019-06-20T17:46:44+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+
+[ 2019-06-20T17:46:45+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+
+[ 2019-06-20T17:48:24+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002701s ]
+
+[ 2019-06-20T17:49:27+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+
+[ 2019-06-20T17:49:48+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+
+[ 2019-06-20T17:50:00+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+
+[ 2019-06-20T17:50:14+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001569s ]
+
+[ 2019-06-20T17:50:36+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+
+[ 2019-06-20T18:00:56+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-06-20T18:05:39+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+
+[ 2019-06-20T18:05:47+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+
+[ 2019-06-20T18:10:40+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+
+[ 2019-06-20T18:10:41+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+
+[ 2019-06-20T18:10:41+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+
+[ 2019-06-20T18:11:06+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+
+[ 2019-06-20T18:11:36+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001471s ]
+
+[ 2019-06-20T18:12:15+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+
+[ 2019-06-20T18:12:43+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+
+[ 2019-06-20T18:13:19+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+
+[ 2019-06-20T18:13:54+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+
+[ 2019-06-20T18:14:21+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+
+[ 2019-06-20T18:14:47+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+
+[ 2019-06-20T18:15:10+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+NOTIC: [8] Undefined offset: 8 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+
+[ 2019-06-20T18:15:47+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002552s ]
+
+[ 2019-06-20T18:15:52+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+NOTIC: [8] Undefined offset: 8 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+
+[ 2019-06-20T18:16:19+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+NOTIC: [8] Undefined offset: 8 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+
+[ 2019-06-20T18:20:10+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 5 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+NOTIC: [8] Undefined offset: 8 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+
+[ 2019-06-20T18:21:56+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005924s ]
+
+[ 2019-06-20T18:22:32+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+
+[ 2019-06-20T18:24:23+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+
+[ 2019-06-20T18:24:38+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+
+[ 2019-06-20T18:24:53+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+
+[ 2019-06-20T18:25:25+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+
+[ 2019-06-20T19:16:23+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+
+[ 2019-06-20T19:16:50+08:00 ] 127.0.0.1 /admin.php/test/bubbleSort.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 853 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 854 行.
+NOTIC: [8] Undefined offset: 9 H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 851 行.
+

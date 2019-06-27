@@ -1,0 +1,193 @@
+[ 2018-06-06T18:09:07+08:00 ] 127.0.0.1 /admin.php/Test/quchong.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2018-06-06T18:09:10+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000766s ]
+
+[ 2018-06-06T18:12:06+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001176s ]
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 167 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2018-06-06T18:13:25+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 169 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 169 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 169 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 169 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 169 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2018-06-06T18:13:50+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+NOTIC: [8] Undefined variable: new_arr H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 166 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2018-06-06T18:13:58+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000915s ]
+
+[ 2018-06-06T18:14:14+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003290s ]
+
+[ 2018-06-06T18:14:38+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001725s ]
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2018-06-06T18:14:52+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2018-06-06T18:18:36+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2018-06-06T18:19:36+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005624s ]
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 170 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 170 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 170 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 170 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 170 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 170 行.
+NOTIC: [8] Undefined variable: key H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+NOTIC: [8] Undefined index:  H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 171 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2018-06-06T18:22:30+08:00 ] 127.0.0.1 /admin.php/Test/group_same_key.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001055s ]
+

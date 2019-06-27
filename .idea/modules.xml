@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyHome/.idea/MyHome.iml" filepath="$PROJECT_DIR$/../MyHome/.idea/MyHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ThinkPHPTest.iml" filepath="$PROJECT_DIR$/.idea/ThinkPHPTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../card/.idea/aaa.iml" filepath="$PROJECT_DIR$/../card/.idea/aaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog/.idea/blog.iml" filepath="$PROJECT_DIR$/../blog/.idea/blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../djcq/.idea/djcq.iml" filepath="$PROJECT_DIR$/../djcq/.idea/djcq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dpzl/.idea/dpzl.iml" filepath="$PROJECT_DIR$/../dpzl/.idea/dpzl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../home/.idea/home.iml" filepath="$PROJECT_DIR$/../home/.idea/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../l_tpl/.idea/l_tpl.iml" filepath="$PROJECT_DIR$/../l_tpl/.idea/l_tpl.iml" />
+      <module fileurl="file://H:\www\laravel58\.idea\laravel58.iml" filepath="H:\www\laravel58\.idea\laravel58.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/.idea/project.iml" filepath="$PROJECT_DIR$/../project/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>

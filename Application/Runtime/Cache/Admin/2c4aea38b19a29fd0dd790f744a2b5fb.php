@@ -1,0 +1,75 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>chart</title>
+</head>
+<body>
+	<div id="container" style="min-width:500px;height:400px;background-color: #A2E5E2;"></div>
+</body>
+
+<script type="text/javascript" src="/Public/Admin/js/highcharts.js"></script>
+<script type="text/javascript">
+	var chart = Highcharts.chart('container', {
+		title: {
+			// text: 'Monthly Average Temperature',
+			// x: -20 //center
+			text: '',
+		},
+		subtitle: {
+			// text: 'Source: WorldClimate.com',
+			text: '',
+		},
+		xAxis: {
+			// categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun','Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+			type: 'category'
+		},
+		yAxis: {
+			title: {
+				// text: 'Temperature (°C)'
+				text: '',
+			},
+			/*plotLines: [{
+				value: 0,
+				width: 1,
+				color: '#808080'
+			}],*/
+			labels:{
+				formatter:function(){
+					return this.value+"%";
+				}
+			}
+		},
+		tooltip: {
+			valueSuffix: '%'
+		},
+		/*plotOptions:{
+			series:{
+				dataLabels:{
+					enabled:true,
+					formatter:function(){
+						return this.y+"x%";
+					}
+				}
+			}
+		},*/
+		/*legend: {
+			layout: 'vertical',
+			align: 'right',
+			verticalAlign: 'middle',
+			borderWidth: 0
+		},*/
+		/*series: [{
+			name: 'Tokyo',
+			data: [7.0, 6.9, 9.5, 14.5, 18.2, 21.5, 25.2, 26.5, 23.3, 18.3, 13.9, 9.6]
+		}]*/
+		series: [{
+		    name: '新增留存率',
+		    data: [
+		        <?php if(is_array($out_put)): $i = 0; $__LIST__ = $out_put;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?>[<?php echo "'" . $vo['name'] . "'";?>, <?php echo ($vo['id']); ?>],<?php endforeach; endif; else: echo "" ;endif; ?>
+		    ]
+		}]
+	});
+</script>
+
+</html>

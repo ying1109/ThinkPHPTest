@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../dpzl/Application/Home/Controller/WxpayAPIController.class.php" line="164" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="8a05a8a3-5cdb-4260-9bc8-684b35de7eef" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog/.idea/blog.iml" afterPath="$PROJECT_DIR$/../blog/.idea/blog.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../project/Application/Admin/Controller/LoginController.class.php" afterPath="$PROJECT_DIR$/../project/Application/Admin/Controller/LoginController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../project/Application/Admin/Controller/PoetryController.class.php" afterPath="$PROJECT_DIR$/../project/Application/Admin/Controller/PoetryController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../project/Application/Common/Conf/config.php" afterPath="$PROJECT_DIR$/../project/Application/Common/Conf/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../project/Public/Admin/base/js/base.js" afterPath="$PROJECT_DIR$/../project/Public/Admin/base/js/base.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ThinkPHPTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestController.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/TestController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="655">
+              <caret line="902" column="28" lean-forward="false" selection-start-line="902" selection-start-column="28" selection-end-line="902" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarketSalesController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2510">
+              <caret line="4254" column="0" lean-forward="false" selection-start-line="4254" selection-start-column="0" selection-end-line="4254" selection-end-column="0" />
+              <folding>
+                <element signature="e#5242#25349#0#PHP" expanded="true" />
+                <element signature="e#25368#26527#0#PHP" expanded="true" />
+                <element signature="e#26547#26797#0#PHP" expanded="true" />
+                <element signature="e#26821#31627#0#PHP" expanded="true" />
+                <element signature="e#31649#37259#0#PHP" expanded="true" />
+                <element signature="e#37282#39851#0#PHP" expanded="true" />
+                <element signature="e#39871#70737#0#PHP" expanded="true" />
+                <element signature="e#70755#76572#0#PHP" expanded="true" />
+                <element signature="e#76591#79175#0#PHP" expanded="true" />
+                <element signature="e#79195#80250#0#PHP" expanded="true" />
+                <element signature="e#80269#82098#0#PHP" expanded="true" />
+                <element signature="e#82103#82244#0#PHP" expanded="true" />
+                <element signature="e#82249#82573#0#PHP" expanded="true" />
+                <element signature="e#82595#84468#0#PHP" expanded="true" />
+                <element signature="e#84491#85042#0#PHP" expanded="true" />
+                <element signature="e#85065#94678#0#PHP" expanded="true" />
+                <element signature="e#94701#95744#0#PHP" expanded="true" />
+                <element signature="e#95764#96454#0#PHP" expanded="true" />
+                <element signature="e#96475#100289#0#PHP" expanded="true" />
+                <element signature="e#100310#102881#0#PHP" expanded="true" />
+                <element signature="e#102903#107443#0#PHP" expanded="true" />
+                <element signature="e#107462#115219#0#PHP" expanded="true" />
+                <element signature="e#115241#119791#0#PHP" expanded="true" />
+                <element signature="e#119815#121935#0#PHP" expanded="true" />
+                <element signature="e#121956#124551#0#PHP" expanded="true" />
+                <element signature="e#124572#125818#0#PHP" expanded="true" />
+                <element signature="e#125841#128554#0#PHP" expanded="true" />
+                <element signature="e#128576#130807#0#PHP" expanded="true" />
+                <element signature="e#150491#154015#0#PHP" expanded="true" />
+                <element signature="e#154044#161049#0#PHP" expanded="true" />
+                <element signature="e#161070#163534#0#PHP" expanded="true" />
+                <element signature="e#196918#203741#0#PHP" expanded="true" />
+                <element signature="e#203760#206444#0#PHP" expanded="true" />
+                <element signature="e#206463#208996#0#PHP" expanded="true" />
+                <element signature="e#209017#215085#0#PHP" expanded="true" />
+                <element signature="e#215104#225776#0#PHP" expanded="true" />
+                <element signature="e#225796#226557#0#PHP" expanded="true" />
+                <element signature="e#226579#229788#0#PHP" expanded="true" />
+                <element signature="e#229806#231503#0#PHP" expanded="true" />
+                <element signature="e#231522#236121#0#PHP" expanded="true" />
+                <element signature="e#236142#240325#0#PHP" expanded="true" />
+                <element signature="e#240349#243431#0#PHP" expanded="true" />
+                <element signature="e#243452#246107#0#PHP" expanded="true" />
+                <element signature="e#246128#249653#0#PHP" expanded="true" />
+                <element signature="e#249672#250947#0#PHP" expanded="true" />
+                <element signature="e#250969#252378#0#PHP" expanded="true" />
+                <element signature="e#252401#253355#0#PHP" expanded="true" />
+                <element signature="e#253374#257384#0#PHP" expanded="true" />
+                <element signature="e#257408#260143#0#PHP" expanded="true" />
+                <element signature="e#260162#260992#0#PHP" expanded="true" />
+                <element signature="e#261011#265202#0#PHP" expanded="true" />
+                <element signature="e#265225#270807#0#PHP" expanded="true" />
+                <element signature="e#270826#273001#0#PHP" expanded="true" />
+                <element signature="e#273023#282369#0#PHP" expanded="true" />
+                <element signature="e#282391#291680#0#PHP" expanded="true" />
+                <element signature="e#291702#295647#0#PHP" expanded="true" />
+                <element signature="e#295665#297233#0#PHP" expanded="true" />
+                <element signature="e#304218#306910#0#PHP" expanded="true" />
+                <element signature="e#306929#318679#0#PHP" expanded="true" />
+                <element signature="e#318702#319367#0#PHP" expanded="true" />
+                <element signature="e#319393#320838#0#PHP" expanded="true" />
+                <element signature="e#320861#322658#0#PHP" expanded="true" />
+                <element signature="e#322674#331936#0#PHP" expanded="true" />
+                <element signature="e#331957#336732#0#PHP" expanded="true" />
+                <element signature="e#336749#344442#0#PHP" expanded="true" />
+                <element signature="e#344460#346151#0#PHP" expanded="true" />
+                <element signature="e#346177#348795#0#PHP" expanded="true" />
+                <element signature="e#348822#351672#0#PHP" expanded="true" />
+                <element signature="e#351697#352902#0#PHP" expanded="true" />
+                <element signature="e#352921#354893#0#PHP" expanded="true" />
+                <element signature="e#354912#357308#0#PHP" expanded="true" />
+                <element signature="e#357330#358522#0#PHP" expanded="true" />
+                <element signature="e#358550#361038#0#PHP" expanded="true" />
+                <element signature="e#361057#365465#0#PHP" expanded="true" />
+                <element signature="e#365491#366318#0#PHP" expanded="true" />
+                <element signature="e#366337#368547#0#PHP" expanded="true" />
+                <element signature="e#368566#369613#0#PHP" expanded="true" />
+                <element signature="e#369644#371009#0#PHP" expanded="true" />
+                <element signature="e#371030#374519#0#PHP" expanded="true" />
+                <element signature="e#374540#375764#0#PHP" expanded="true" />
+                <element signature="e#375784#376541#0#PHP" expanded="true" />
+                <element signature="e#376563#377815#0#PHP" expanded="true" />
+                <element signature="e#377836#383370#0#PHP" expanded="true" />
+                <element signature="e#383389#384610#0#PHP" expanded="true" />
+                <element signature="e#384629#386410#0#PHP" expanded="true" />
+                <element signature="e#386431#393143#0#PHP" expanded="true" />
+                <element signature="e#393162#394493#0#PHP" expanded="true" />
+                <element signature="e#394512#396752#0#PHP" expanded="true" />
+                <element signature="e#396773#398860#0#PHP" expanded="true" />
+                <element signature="e#398881#399679#0#PHP" expanded="true" />
+                <element signature="e#399698#402487#0#PHP" expanded="true" />
+                <element signature="e#402506#404475#0#PHP" expanded="true" />
+                <element signature="e#404496#405738#0#PHP" expanded="true" />
+                <element signature="e#405763#407217#0#PHP" expanded="true" />
+                <element signature="e#407244#407859#0#PHP" expanded="true" />
+                <element signature="e#407884#411035#0#PHP" expanded="true" />
+                <element signature="e#411041#412217#0#PHP" expanded="true" />
+                <element signature="e#412236#414558#0#PHP" expanded="true" />
+                <element signature="e#414575#415346#0#PHP" expanded="true" />
+                <element signature="e#415363#416131#0#PHP" expanded="true" />
+                <element signature="e#416152#425819#0#PHP" expanded="true" />
+                <element signature="e#425838#427309#0#PHP" expanded="true" />
+                <element signature="e#427330#431811#0#PHP" expanded="true" />
+                <element signature="e#431850#432944#0#PHP" expanded="true" />
+                <element signature="e#432980#435478#0#PHP" expanded="true" />
+                <element signature="e#435500#436634#0#PHP" expanded="true" />
+                <element signature="e#436670#437867#0#PHP" expanded="true" />
+                <element signature="e#437898#439295#0#PHP" expanded="true" />
+                <element signature="e#439330#439732#0#PHP" expanded="true" />
+                <element signature="e#439756#443796#0#PHP" expanded="true" />
+                <element signature="e#443834#445032#0#PHP" expanded="true" />
+                <element signature="e#445062#446098#0#PHP" expanded="true" />
+                <marker date="1561600180617" expanded="true" signature="328862:329176" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+                <marker date="1561600180617" expanded="true" signature="340651:340982" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+                <marker date="1561600180617" expanded="true" signature="343601:343883" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+                <marker date="1561600180617" expanded="true" signature="370350:370675" ph="select o.*,m... ${C('DB_PREFIX')}" />
+                <marker date="1561600180617" expanded="true" signature="383941:384275" ph="select o.*,m... ${C('DB_PREFIX')}" />
+                <marker date="1561600180617" expanded="true" signature="393715:394074" ph="select o.*,m... ${C('DB_PREFIX')}" />
+                <marker date="1561600180617" expanded="true" signature="406202:406526" ph="select p.*,p... ${C('DB_PREFIX')}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarketSalesBaseController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesBaseController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="81" column="23" lean-forward="false" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+              <folding>
+                <element signature="e#716#1253#0#PHP" expanded="true" />
+                <element signature="e#1281#1792#0#PHP" expanded="true" />
+                <element signature="e#2590#4717#0#PHP" expanded="true" />
+                <element signature="e#2847#4710#0#PHP" expanded="false" />
+                <element signature="e#4079#4710#0#PHP" expanded="false" />
+                <element signature="e#6851#7191#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PublicController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/PublicController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="961">
+              <caret line="433" column="31" lean-forward="false" selection-start-line="433" selection-start-column="20" selection-end-line="433" selection-end-column="31" />
+              <folding>
+                <element signature="e#12090#13581#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>visitedNotice(</find>
+      <find>visitedNotice</find>
+      <find>customerList</find>
+      <find>shareTmpList</find>
+      <find>访客</find>
+      <find>https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTICvUzv505gO3iaxoto61B4YLNp3D5tvMyn8Y4YJP6Er3l4T81oCd7q2cwF5tml3DWlqtXZ587JmQw/0</find>
+      <find>shareTmpList(</find>
+      <find>$app_type</find>
+      <find>您好</find>
+      <find>share_card</find>
+      <find>authState</find>
+      <find>$user_info</find>
+      <find>guideRemind</find>
+      <find>likeNews</find>
+      <find>转发</find>
+      <find>动态</find>
+      <find>文章</find>
+      <find>replyDynamic</find>
+      <find>news</find>
+      <find>newsEdit</find>
+      <find>relation_id</find>
+      <find>userInfo</find>
+      <find>createShareImg&quot;</find>
+      <find>客户列表-访客</find>
+      <find>$map_member</find>
+      <find>模板</find>
+      <find>生成</find>
+      <find>生成海报</find>
+      <find>createShareImg</find>
+      <find>shareUpdate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>#treeview</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>H:\www\djcq</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../home" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../MyHome/app/Http/Controllers/Admin/LoginController.php" />
+        <option value="$PROJECT_DIR$/../MyHome/public/admin/css/index.css" />
+        <option value="$PROJECT_DIR$/../MyHome/public/admin/css/login.css" />
+        <option value="$PROJECT_DIR$/../MyHome/.env" />
+        <option value="$PROJECT_DIR$/../MyHome/resources/views/admin/login/login.blade.php" />
+        <option value="$PROJECT_DIR$/../home/public/admin/css/login.css" />
+        <option value="$PROJECT_DIR$/../home/.env" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/../dpzl/Application/Admin/Controller/OrderController.class.php" />
+        <option value="$PROJECT_DIR$/../home/resources/views/layouts/contentHeader.blade.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Controllers/Admin/IndexController.php" />
+        <option value="$PROJECT_DIR$/../home/resources/views/template/list.blade.php" />
+        <option value="$PROJECT_DIR$/../home/resources/views/admin/index/index.blade.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Middleware/AdminLogin.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/../home/config/session.php" />
+        <option value="$PROJECT_DIR$/../home/resources/views/admin/login/login.blade.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Controllers/Admin/LoginController.php" />
+        <option value="$PROJECT_DIR$/../home/resources/views/admin/homepage/console.blade.php" />
+        <option value="$PROJECT_DIR$/../home/resources/views/layouts/header.blade.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Controllers/Admin/CommonController.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Controllers/Admin/AdminController.php" />
+        <option value="$PROJECT_DIR$/../home/resources/views/admin/admin/adminList.blade.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Controllers/TestController.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Common/function.php" />
+        <option value="$PROJECT_DIR$/../home/composer.json" />
+        <option value="$PROJECT_DIR$/../home/resources/views/layouts/admin.blade.php" />
+        <option value="$PROJECT_DIR$/../home/resources/views/admin/admins/adminList.blade.php" />
+        <option value="$PROJECT_DIR$/../home/public/admin/js/index.js" />
+        <option value="$PROJECT_DIR$/../home/resources/views/admin/admins/adminAdd.blade.php" />
+        <option value="$PROJECT_DIR$/../home/public/admin/css/index.css" />
+        <option value="$PROJECT_DIR$/../dpzl/Application/Admin/Controller/GoodsController.class.php" />
+        <option value="$PROJECT_DIR$/../dpzl/Application/Home/Controller/WxpayAPIController.class.php" />
+        <option value="$PROJECT_DIR$/../dpzl/Application/Admin/Controller/DepositController.class.php" />
+        <option value="$PROJECT_DIR$/../dpzl/Application/Home/Controller/MemberController.class.php" />
+        <option value="$PROJECT_DIR$/../dpzl/Application/Admin/View/Deposit/depositLists.html" />
+        <option value="$PROJECT_DIR$/../home/routes/web.php" />
+        <option value="$PROJECT_DIR$/../home/resources/views/layouts/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/../home/bootstrap/app.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Model/admin.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Model/Admin.php" />
+        <option value="$PROJECT_DIR$/../home/bootstrap/constants.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Controllers/Admin/HomepageController.php" />
+        <option value="$PROJECT_DIR$/../home/app/Http/Controllers/Admin/AdminsController.php" />
+        <option value="$PROJECT_DIR$/../card/Application/Common/Conf/config111.php" />
+        <option value="$PROJECT_DIR$/../card/Application/Common/Conf/config.php" />
+        <option value="$PROJECT_DIR$/../card/Application/User/Controller/SiteController.class.php" />
+        <option value="$PROJECT_DIR$/../card/Application/User/Controller/MarketController.class.php" />
+        <option value="$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesBaseController.class.php" />
+        <option value="$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/Controller/TestController.class.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control FlowPHP</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DocBlocksJoomla!</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Haml</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Joomla!</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Naming conventionsPHP</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>PHP Strict StandardsPHP</id>
+          </State>
+          <State>
+            <id>PHPDocPHP</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>代码风格问题JavaScript</id>
+          </State>
+          <State>
+            <id>可能引起混淆的代码结构JavaScript</id>
+          </State>
+          <State>
+            <id>可能的错误JavaScript</id>
+          </State>
+          <State>
+            <id>命名约定JavaScript</id>
+          </State>
+          <State>
+            <id>常规</id>
+          </State>
+          <State>
+            <id>按位运算的问题JavaScript</id>
+          </State>
+          <State>
+            <id>控制流问题JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+    <ConfirmationsSetting value="2" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkPHPTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkPHPTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkPHPTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkPHPTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkPHPTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkPHPTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkPHPTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkPHPTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../card" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\www\home\bootstrap" />
+      <recent name="H:\www\MyHome\resources\views\layouts" />
+      <recent name="H:\www\dpzl\Public\Admin\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\www\card\Application\Common\Conf" />
+      <recent name="H:\www\home\resources\views\layouts" />
+      <recent name="H:\www\home\resources\views\admin\admins" />
+      <recent name="H:\www\home\resources\views\admin\admin" />
+      <recent name="H:\www\MyHome\public\admin\img\login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\www\djcq" />
+          <option name="myCopyRoot" value="H:\www\djcq" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\www\dpzl" />
+          <option name="myCopyRoot" value="H:\www\dpzl" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\www\oa_dev" />
+          <option name="myCopyRoot" value="H:\www\oa_dev" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\www\djcq" />
+          <option name="myCopyRoot" value="H:\www\djcq" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\www\dpzl" />
+          <option name="myCopyRoot" value="H:\www\dpzl" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\www\oa_dev" />
+          <option name="myCopyRoot" value="H:\www\oa_dev" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a05a8a3-5cdb-4260-9bc8-684b35de7eef" name="默认的" comment="" />
+      <created>1543284090518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543284090518</updated>
+      <workItem from="1543284091807" duration="11000" />
+      <workItem from="1543284130235" duration="857000" />
+      <workItem from="1543285013596" duration="227000" />
+      <workItem from="1543301248340" duration="10408000" />
+      <workItem from="1543312616492" duration="281000" />
+      <workItem from="1543312940784" duration="157000" />
+      <workItem from="1543367076331" duration="1802000" />
+      <workItem from="1543368927755" duration="6451000" />
+      <workItem from="1543376499274" duration="11044000" />
+      <workItem from="1543393559728" duration="5124000" />
+      <workItem from="1543452581668" duration="27921000" />
+      <workItem from="1543539223764" duration="21509000" />
+      <workItem from="1543799073970" duration="85000" />
+      <workItem from="1543801115431" duration="29365000" />
+      <workItem from="1543885697099" duration="23084000" />
+      <workItem from="1543972119256" duration="30849000" />
+      <workItem from="1544059188968" duration="24086000" />
+      <workItem from="1544144853544" duration="23874000" />
+      <workItem from="1544405186303" duration="15456000" />
+      <workItem from="1544490147206" duration="8027000" />
+      <workItem from="1544509357569" duration="10660000" />
+      <workItem from="1544576675201" duration="16727000" />
+      <workItem from="1544663565430" duration="24317000" />
+      <workItem from="1544749809419" duration="21865000" />
+      <workItem from="1545008168774" duration="20608000" />
+      <workItem from="1545039314471" duration="2516000" />
+      <workItem from="1545095839345" duration="16234000" />
+      <workItem from="1545182250742" duration="6632000" />
+      <workItem from="1545267869456" duration="19561000" />
+      <workItem from="1545354706985" duration="22665000" />
+      <workItem from="1545613103456" duration="24175000" />
+      <workItem from="1545699756423" duration="23987000" />
+      <workItem from="1545786826799" duration="46000" />
+      <workItem from="1545786968197" duration="10751000" />
+      <workItem from="1545809787928" duration="1282000" />
+      <workItem from="1545811123511" duration="321000" />
+      <workItem from="1545811482364" duration="7620000" />
+      <workItem from="1545873086434" duration="24345000" />
+      <workItem from="1545960280996" duration="21410000" />
+      <workItem from="1546045499520" duration="10565000" />
+      <workItem from="1546064172150" duration="9919000" />
+      <workItem from="1546563850163" duration="8425000" />
+      <workItem from="1546580299958" duration="11159000" />
+      <workItem from="1546673495618" duration="4261000" />
+      <workItem from="1546737804079" duration="8000" />
+      <workItem from="1547431248912" duration="31000" />
+      <workItem from="1547782114880" duration="1369000" />
+      <workItem from="1547859831214" duration="1070000" />
+      <workItem from="1548032809924" duration="18933000" />
+      <workItem from="1548119646005" duration="9333000" />
+      <workItem from="1548151615261" duration="92000" />
+      <workItem from="1548205161878" duration="17682000" />
+      <workItem from="1548295065041" duration="5816000" />
+      <workItem from="1548380296255" duration="686000" />
+      <workItem from="1548396594438" duration="11679000" />
+      <workItem from="1548465518164" duration="25147000" />
+      <workItem from="1548638713623" duration="8818000" />
+      <workItem from="1548727691759" duration="4087000" />
+      <workItem from="1549847393102" duration="15908000" />
+      <workItem from="1549933782013" duration="24593000" />
+      <workItem from="1550020590828" duration="26186000" />
+      <workItem from="1550107207226" duration="21712000" />
+      <workItem from="1550195568525" duration="14840000" />
+      <workItem from="1550452058058" duration="12879000" />
+      <workItem from="1550540037649" duration="15764000" />
+      <workItem from="1550624723663" duration="9345000" />
+      <workItem from="1550711048761" duration="12534000" />
+      <workItem from="1550814461394" duration="15120000" />
+      <workItem from="1551056839337" duration="15937000" />
+      <workItem from="1551144006729" duration="13207000" />
+      <workItem from="1551231182540" duration="13348000" />
+      <workItem from="1551316695781" duration="14923000" />
+      <workItem from="1551403995116" duration="139000" />
+      <workItem from="1551405049789" duration="7071000" />
+      <workItem from="1551661360137" duration="2801000" />
+      <workItem from="1551666474279" duration="15176000" />
+      <workItem from="1551690061861" duration="4078000" />
+      <workItem from="1551748960673" duration="25959000" />
+      <workItem from="1551833871161" duration="1276000" />
+      <workItem from="1551835914987" duration="8469000" />
+      <workItem from="1551851760584" duration="14794000" />
+      <workItem from="1551920516075" duration="7837000" />
+      <workItem from="1551931347777" duration="598000" />
+      <workItem from="1551938046830" duration="14202000" />
+      <workItem from="1552007174306" duration="25958000" />
+      <workItem from="1552266154671" duration="24988000" />
+      <workItem from="1552353908034" duration="17423000" />
+      <workItem from="1552440411128" duration="9475000" />
+      <workItem from="1552525797282" duration="12247000" />
+      <workItem from="1552622056376" duration="596000" />
+      <workItem from="1552628144513" duration="11788000" />
+      <workItem from="1552870963505" duration="20913000" />
+      <workItem from="1552959149778" duration="6447000" />
+      <workItem from="1552989143987" duration="746000" />
+      <workItem from="1553044308044" duration="14608000" />
+      <workItem from="1553130107746" duration="10458000" />
+      <workItem from="1553160192345" duration="2483000" />
+      <workItem from="1553218985934" duration="5642000" />
+      <workItem from="1553240154958" duration="377000" />
+      <workItem from="1553240589507" duration="4869000" />
+      <workItem from="1553475033043" duration="14247000" />
+      <workItem from="1553562819613" duration="10020000" />
+      <workItem from="1553648325112" duration="6933000" />
+      <workItem from="1553678402395" duration="589000" />
+      <workItem from="1553734928570" duration="3069000" />
+      <workItem from="1553741413393" duration="2890000" />
+      <workItem from="1553754513572" duration="8569000" />
+      <workItem from="1553821332578" duration="5649000" />
+      <workItem from="1554082161416" duration="19178000" />
+      <workItem from="1554167464944" duration="22416000" />
+      <workItem from="1554254611216" duration="10880000" />
+      <workItem from="1554339695930" duration="19864000" />
+      <workItem from="1554685565291" duration="15803000" />
+      <workItem from="1554771212210" duration="23640000" />
+      <workItem from="1554858312953" duration="24617000" />
+      <workItem from="1555375625691" duration="7374000" />
+      <workItem from="1555462170799" duration="11025000" />
+      <workItem from="1555549067376" duration="1194000" />
+      <workItem from="1555557707272" duration="7146000" />
+      <workItem from="1555637159736" duration="102000" />
+      <workItem from="1555638033055" duration="15585000" />
+      <workItem from="1559097348932" duration="375000" />
+      <workItem from="1559097768999" duration="1190000" />
+      <workItem from="1559185444012" duration="10357000" />
+      <workItem from="1559263354962" duration="16126000" />
+      <workItem from="1559521871259" duration="658000" />
+      <workItem from="1559608575665" duration="2417000" />
+      <workItem from="1559696080659" duration="9781000" />
+      <workItem from="1559780816817" duration="7506000" />
+      <workItem from="1559801692072" duration="8913000" />
+      <workItem from="1560126613226" duration="18731000" />
+      <workItem from="1560213108415" duration="18720000" />
+      <workItem from="1560300706171" duration="6636000" />
+      <workItem from="1560308362463" duration="27000" />
+      <workItem from="1560387437403" duration="10770000" />
+      <workItem from="1560407359901" duration="9453000" />
+      <workItem from="1560472940539" duration="19675000" />
+      <workItem from="1560760546766" duration="10261000" />
+      <workItem from="1560820410867" duration="17776000" />
+      <workItem from="1560905587832" duration="9611000" />
+      <workItem from="1560992157383" duration="27435000" />
+      <workItem from="1561078982794" duration="3529000" />
+      <workItem from="1561085328247" duration="21546000" />
+      <workItem from="1561164459937" duration="16548000" />
+      <workItem from="1561195887723" duration="1681000" />
+      <workItem from="1561338220524" duration="21759000" />
+      <workItem from="1561424733226" duration="20375000" />
+      <workItem from="1561511118934" duration="13121000" />
+      <workItem from="1561597310086" duration="24102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1727930000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1388889" sideWeight="0.49628845" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277027" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3355856" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13936171" sideWeight="0.5037116" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="50" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ThinkPHPTest" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="my_project" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ThinkPHPTest" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="mini_beta" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ThinkPHPTest" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="djcq" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ThinkPHPTest" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ThinkPHPTest" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../card/Application/Admin/Controller/DataStatisticsController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2816">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/JYB/Controller/CompanyController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1151">
+          <caret line="758" column="35" lean-forward="true" selection-start-line="758" selection-start-column="35" selection-end-line="758" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/JYB/Controller/AdminController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/AddressController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/AgentBaseController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/AgentController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/B2CApiController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/B2CCollageController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketActivitiesController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketAlbumController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="556" column="33" lean-forward="false" selection-start-line="556" selection-start-column="33" selection-end-line="556" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketFreeController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="781">
+          <caret line="1388" column="52" lean-forward="false" selection-start-line="1388" selection-start-column="52" selection-end-line="1388" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesApiController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesApprovalRuleController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="1876" column="60" lean-forward="true" selection-start-line="1876" selection-start-column="60" selection-end-line="1876" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesAttendController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class - 副本.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="212" column="31" lean-forward="true" selection-start-line="212" selection-start-column="31" selection-end-line="212" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesDepartmentController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesExpandController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesFinanceController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="348" column="18" lean-forward="false" selection-start-line="348" selection-start-column="18" selection-end-line="348" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesGreetingController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesGWController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesIntegralController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesNoticeController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesOrderController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesPersonalCenterController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesPlanController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesQuestionController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesReportController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesSaleManageController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesSquareController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesWebsiteController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../djcq/Application/Common/Common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="275" column="9" lean-forward="false" selection-start-line="275" selection-start-column="9" selection-end-line="275" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesCustomerController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="71" lean-forward="true" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Common/Common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="297" column="9" lean-forward="false" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/User/Controller/BaseController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/User/Controller/PublicController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="582" column="5" lean-forward="true" selection-start-line="582" selection-start-column="5" selection-end-line="582" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4026">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Model/MemberModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="190" column="38" lean-forward="false" selection-start-line="190" selection-start-column="38" selection-end-line="190" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/ApplicationVersion/v1.2.4/Common/Common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="922" column="9" lean-forward="false" selection-start-line="922" selection-start-column="9" selection-end-line="922" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/ApplicationVersion/v1.2.6/Common/Common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1584" column="9" lean-forward="false" selection-start-line="1584" selection-start-column="9" selection-end-line="1584" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesGuideController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/ApplicationVersion/v1.1.03/User/Controller/MarketController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="136" column="11" lean-forward="true" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/ApplicationVersion/v1.1.03/User/View/SiteBase/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="96" column="50" lean-forward="false" selection-start-line="96" selection-start-column="50" selection-end-line="96" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/ApplicationVersion/v1.1.03/User/Controller/SiteBaseController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="1128" column="31" lean-forward="true" selection-start-line="1128" selection-start-column="31" selection-end-line="1128" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/User/Controller/SiteBaseController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="1524" column="38" lean-forward="false" selection-start-line="1524" selection-start-column="30" selection-end-line="1524" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/User/Controller/MarketController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1066">
+          <caret line="378" column="43" lean-forward="false" selection-start-line="378" selection-start-column="43" selection-end-line="378" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesBaseController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="81" column="23" lean-forward="false" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+          <folding>
+            <element signature="e#716#1253#0#PHP" expanded="true" />
+            <element signature="e#1281#1792#0#PHP" expanded="true" />
+            <element signature="e#2590#4717#0#PHP" expanded="true" />
+            <element signature="e#2847#4710#0#PHP" expanded="false" />
+            <element signature="e#4079#4710#0#PHP" expanded="false" />
+            <element signature="e#6851#7191#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/PublicController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="961">
+          <caret line="433" column="31" lean-forward="false" selection-start-line="433" selection-start-column="20" selection-end-line="433" selection-end-column="31" />
+          <folding>
+            <element signature="e#12090#13581#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2510">
+          <caret line="4254" column="0" lean-forward="false" selection-start-line="4254" selection-start-column="0" selection-end-line="4254" selection-end-column="0" />
+          <folding>
+            <element signature="e#5242#25349#0#PHP" expanded="true" />
+            <element signature="e#25368#26527#0#PHP" expanded="true" />
+            <element signature="e#26547#26797#0#PHP" expanded="true" />
+            <element signature="e#26821#31627#0#PHP" expanded="true" />
+            <element signature="e#31649#37259#0#PHP" expanded="true" />
+            <element signature="e#37282#39851#0#PHP" expanded="true" />
+            <element signature="e#39871#70737#0#PHP" expanded="true" />
+            <element signature="e#70755#76572#0#PHP" expanded="true" />
+            <element signature="e#76591#79175#0#PHP" expanded="true" />
+            <element signature="e#79195#80250#0#PHP" expanded="true" />
+            <element signature="e#80269#82098#0#PHP" expanded="true" />
+            <element signature="e#82103#82244#0#PHP" expanded="true" />
+            <element signature="e#82249#82573#0#PHP" expanded="true" />
+            <element signature="e#82595#84468#0#PHP" expanded="true" />
+            <element signature="e#84491#85042#0#PHP" expanded="true" />
+            <element signature="e#85065#94678#0#PHP" expanded="true" />
+            <element signature="e#94701#95744#0#PHP" expanded="true" />
+            <element signature="e#95764#96454#0#PHP" expanded="true" />
+            <element signature="e#96475#100289#0#PHP" expanded="true" />
+            <element signature="e#100310#102881#0#PHP" expanded="true" />
+            <element signature="e#102903#107443#0#PHP" expanded="true" />
+            <element signature="e#107462#115219#0#PHP" expanded="true" />
+            <element signature="e#115241#119791#0#PHP" expanded="true" />
+            <element signature="e#119815#121935#0#PHP" expanded="true" />
+            <element signature="e#121956#124551#0#PHP" expanded="true" />
+            <element signature="e#124572#125818#0#PHP" expanded="true" />
+            <element signature="e#125841#128554#0#PHP" expanded="true" />
+            <element signature="e#128576#130807#0#PHP" expanded="true" />
+            <element signature="e#150491#154015#0#PHP" expanded="true" />
+            <element signature="e#154044#161049#0#PHP" expanded="true" />
+            <element signature="e#161070#163534#0#PHP" expanded="true" />
+            <element signature="e#196918#203741#0#PHP" expanded="true" />
+            <element signature="e#203760#206444#0#PHP" expanded="true" />
+            <element signature="e#206463#208996#0#PHP" expanded="true" />
+            <element signature="e#209017#215085#0#PHP" expanded="true" />
+            <element signature="e#215104#225776#0#PHP" expanded="true" />
+            <element signature="e#225796#226557#0#PHP" expanded="true" />
+            <element signature="e#226579#229788#0#PHP" expanded="true" />
+            <element signature="e#229806#231503#0#PHP" expanded="true" />
+            <element signature="e#231522#236121#0#PHP" expanded="true" />
+            <element signature="e#236142#240325#0#PHP" expanded="true" />
+            <element signature="e#240349#243431#0#PHP" expanded="true" />
+            <element signature="e#243452#246107#0#PHP" expanded="true" />
+            <element signature="e#246128#249653#0#PHP" expanded="true" />
+            <element signature="e#249672#250947#0#PHP" expanded="true" />
+            <element signature="e#250969#252378#0#PHP" expanded="true" />
+            <element signature="e#252401#253355#0#PHP" expanded="true" />
+            <element signature="e#253374#257384#0#PHP" expanded="true" />
+            <element signature="e#257408#260143#0#PHP" expanded="true" />
+            <element signature="e#260162#260992#0#PHP" expanded="true" />
+            <element signature="e#261011#265202#0#PHP" expanded="true" />
+            <element signature="e#265225#270807#0#PHP" expanded="true" />
+            <element signature="e#270826#273001#0#PHP" expanded="true" />
+            <element signature="e#273023#282369#0#PHP" expanded="true" />
+            <element signature="e#282391#291680#0#PHP" expanded="true" />
+            <element signature="e#291702#295647#0#PHP" expanded="true" />
+            <element signature="e#295665#297233#0#PHP" expanded="true" />
+            <element signature="e#304218#306910#0#PHP" expanded="true" />
+            <element signature="e#306929#318679#0#PHP" expanded="true" />
+            <element signature="e#318702#319367#0#PHP" expanded="true" />
+            <element signature="e#319393#320838#0#PHP" expanded="true" />
+            <element signature="e#320861#322658#0#PHP" expanded="true" />
+            <element signature="e#322674#331936#0#PHP" expanded="true" />
+            <element signature="e#331957#336732#0#PHP" expanded="true" />
+            <element signature="e#336749#344442#0#PHP" expanded="true" />
+            <element signature="e#344460#346151#0#PHP" expanded="true" />
+            <element signature="e#346177#348795#0#PHP" expanded="true" />
+            <element signature="e#348822#351672#0#PHP" expanded="true" />
+            <element signature="e#351697#352902#0#PHP" expanded="true" />
+            <element signature="e#352921#354893#0#PHP" expanded="true" />
+            <element signature="e#354912#357308#0#PHP" expanded="true" />
+            <element signature="e#357330#358522#0#PHP" expanded="true" />
+            <element signature="e#358550#361038#0#PHP" expanded="true" />
+            <element signature="e#361057#365465#0#PHP" expanded="true" />
+            <element signature="e#365491#366318#0#PHP" expanded="true" />
+            <element signature="e#366337#368547#0#PHP" expanded="true" />
+            <element signature="e#368566#369613#0#PHP" expanded="true" />
+            <element signature="e#369644#371009#0#PHP" expanded="true" />
+            <element signature="e#371030#374519#0#PHP" expanded="true" />
+            <element signature="e#374540#375764#0#PHP" expanded="true" />
+            <element signature="e#375784#376541#0#PHP" expanded="true" />
+            <element signature="e#376563#377815#0#PHP" expanded="true" />
+            <element signature="e#377836#383370#0#PHP" expanded="true" />
+            <element signature="e#383389#384610#0#PHP" expanded="true" />
+            <element signature="e#384629#386410#0#PHP" expanded="true" />
+            <element signature="e#386431#393143#0#PHP" expanded="true" />
+            <element signature="e#393162#394493#0#PHP" expanded="true" />
+            <element signature="e#394512#396752#0#PHP" expanded="true" />
+            <element signature="e#396773#398860#0#PHP" expanded="true" />
+            <element signature="e#398881#399679#0#PHP" expanded="true" />
+            <element signature="e#399698#402487#0#PHP" expanded="true" />
+            <element signature="e#402506#404475#0#PHP" expanded="true" />
+            <element signature="e#404496#405738#0#PHP" expanded="true" />
+            <element signature="e#405763#407217#0#PHP" expanded="true" />
+            <element signature="e#407244#407859#0#PHP" expanded="true" />
+            <element signature="e#407884#411035#0#PHP" expanded="true" />
+            <element signature="e#411041#412217#0#PHP" expanded="true" />
+            <element signature="e#412236#414558#0#PHP" expanded="true" />
+            <element signature="e#414575#415346#0#PHP" expanded="true" />
+            <element signature="e#415363#416131#0#PHP" expanded="true" />
+            <element signature="e#416152#425819#0#PHP" expanded="true" />
+            <element signature="e#425838#427309#0#PHP" expanded="true" />
+            <element signature="e#427330#431811#0#PHP" expanded="true" />
+            <element signature="e#431850#432944#0#PHP" expanded="true" />
+            <element signature="e#432980#435478#0#PHP" expanded="true" />
+            <element signature="e#435500#436634#0#PHP" expanded="true" />
+            <element signature="e#436670#437867#0#PHP" expanded="true" />
+            <element signature="e#437898#439295#0#PHP" expanded="true" />
+            <element signature="e#439330#439732#0#PHP" expanded="true" />
+            <element signature="e#439756#443796#0#PHP" expanded="true" />
+            <element signature="e#443834#445032#0#PHP" expanded="true" />
+            <element signature="e#445062#446098#0#PHP" expanded="true" />
+            <marker date="1561600180617" expanded="true" signature="328862:329176" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+            <marker date="1561600180617" expanded="true" signature="340651:340982" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+            <marker date="1561600180617" expanded="true" signature="343601:343883" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+            <marker date="1561600180617" expanded="true" signature="370350:370675" ph="select o.*,m... ${C('DB_PREFIX')}" />
+            <marker date="1561600180617" expanded="true" signature="383941:384275" ph="select o.*,m... ${C('DB_PREFIX')}" />
+            <marker date="1561600180617" expanded="true" signature="393715:394074" ph="select o.*,m... ${C('DB_PREFIX')}" />
+            <marker date="1561600180617" expanded="true" signature="406202:406526" ph="select p.*,p... ${C('DB_PREFIX')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/TestController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="902" column="28" lean-forward="false" selection-start-line="902" selection-start-column="28" selection-end-line="902" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

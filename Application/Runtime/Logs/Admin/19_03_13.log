@@ -1,0 +1,234 @@
+[ 2019-03-13T14:11:33+08:00 ] 127.0.0.1 /admin.php/Test/quchong.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004287s ]
+
+[ 2019-03-13T14:11:37+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.043848s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.001890s ]
+
+[ 2019-03-13T14:12:24+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001445s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.014593s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000430s ]
+NOTIC: [2] base64_decode() expects parameter 1 to be string, array given H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 777 行.
+
+[ 2019-03-13T14:12:35+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.109331s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.001546s ]
+
+[ 2019-03-13T14:12:49+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.012964s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000297s ]
+
+[ 2019-03-13T14:13:17+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.023349s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000365s ]
+
+[ 2019-03-13T14:13:49+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002099s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.024011s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.002462s ]
+NOTIC: [2] Illegal string offset 'data' H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 778 行.
+
+[ 2019-03-13T14:13:52+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.035466s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000357s ]
+NOTIC: [2] Illegal string offset 'data' H:\www\ThinkPHPTest\Application\Admin\Controller\TestController.class.php 第 778 行.
+
+[ 2019-03-13T14:15:56+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.022050s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.008332s ]
+
+[ 2019-03-13T14:16:56+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.022955s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000276s ]
+
+[ 2019-03-13T14:16:59+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.009297s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000415s ]
+
+[ 2019-03-13T14:24:16+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.043326s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.001884s ]
+
+[ 2019-03-13T14:25:36+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.009592s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000334s ]
+
+[ 2019-03-13T14:25:51+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.007285s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000313s ]
+
+[ 2019-03-13T14:28:25+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000216s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008073s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.016293s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000317s ]
+
+[ 2019-03-13T14:28:52+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.011455s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000300s ]
+
+[ 2019-03-13T14:29:07+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.017631s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000416s ]
+
+[ 2019-03-13T14:35:58+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002219s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.015100s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.001845s ]
+
+[ 2019-03-13T14:36:32+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.024737s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000313s ]
+
+[ 2019-03-13T14:37:50+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.026727s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000572s ]
+
+[ 2019-03-13T14:38:51+08:00 ] 127.0.0.1 /admin.php/Test/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.022650s ]
+SQL: SELECT * FROM `test` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000372s ]
+
