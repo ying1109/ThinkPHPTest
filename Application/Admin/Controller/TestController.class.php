@@ -886,6 +886,7 @@ class TestController extends Controller {
     public function selectSortTwo() {
         $arr   = array(17, 30, 87, 57, 23, 9, 45, 90, 65, 79);
         $count = count($arr);
+        
         echo "<pre>";
 
         for ($i = 0; $i < $count; $i++) {
