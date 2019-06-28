@@ -50,6 +50,12 @@
 	                    </tr>
 	                </tbody>
 	            </table>
+
+				<div class="form-group">
+					<div class="col-sm-1 col-sm-offset-1">
+						<button type="submit" id="confirmReceipt" class="btn btn-success" name="check" value="1">确认收货</button>
+					</div>
+				</div>
 	        </div>
 	    </div>
     </div>
@@ -57,6 +63,19 @@
 
 </body>
 
+<script type="text/javascript" src="/Public/Admin/js/jquery-3.3.1.js"></script>
 <script type="text/javascript" src="/Public/Admin/js/bootstrap.js"></script>
+<script type="text/javascript">
+    $("#confirmReceipt").click(function () {
+        $(this).attr("disabled","disabled");
+    });
+
+    $(function(){
+        setInterval("cancelDisabled()", 5000);
+    });
+    function cancelDisabled(){
+        $('#confirmReceipt').removeAttr('disabled');
+    }
+</script>
 
 </html>
