@@ -33,7 +33,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MarketSalesController.class.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MarketSalesController.class.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1704">
@@ -157,19 +157,6 @@
                 <marker date="1561600180617" expanded="true" signature="383941:384275" ph="select o.*,m... ${C('DB_PREFIX')}" />
                 <marker date="1561600180617" expanded="true" signature="393715:394074" ph="select o.*,m... ${C('DB_PREFIX')}" />
                 <marker date="1561600180617" expanded="true" signature="406202:406526" ph="select p.*,p... ${C('DB_PREFIX')}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="table.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/View/Test/table.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="73" column="8" lean-forward="false" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
-              <folding>
-                <element signature="e#1923#1975#0" expanded="true" />
-                <element signature="e#2081#2141#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -896,12 +883,12 @@
       <workItem from="1561424733226" duration="20375000" />
       <workItem from="1561511118934" duration="13121000" />
       <workItem from="1561597310086" duration="26210000" />
-      <workItem from="1561683313486" duration="10233000" />
+      <workItem from="1561683313486" duration="11466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1740271000" />
+    <option name="totallyTimeSpent" value="1741504000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1341,6 +1328,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../djcq/Application/Admin/View/Activity/actInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../djcq/Application/Admin/View/Activity/actCheckInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="568" column="10" lean-forward="true" selection-start-line="541" selection-start-column="8" selection-end-line="568" selection-end-column="10" />
+          <folding>
+            <element signature="e#24294#25189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Test/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="76" column="52" lean-forward="true" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+          <folding>
+            <element signature="e#1923#1975#0" expanded="true" />
+            <element signature="e#1995#2049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1704">
@@ -1464,35 +1480,6 @@
             <marker date="1561600180617" expanded="true" signature="383941:384275" ph="select o.*,m... ${C('DB_PREFIX')}" />
             <marker date="1561600180617" expanded="true" signature="393715:394074" ph="select o.*,m... ${C('DB_PREFIX')}" />
             <marker date="1561600180617" expanded="true" signature="406202:406526" ph="select p.*,p... ${C('DB_PREFIX')}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djcq/Application/Admin/View/Activity/actInfo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../djcq/Application/Admin/View/Activity/actCheckInfo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="568" column="10" lean-forward="true" selection-start-line="541" selection-start-column="8" selection-end-line="568" selection-end-column="10" />
-          <folding>
-            <element signature="e#24294#25189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Test/table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="73" column="8" lean-forward="false" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
-          <folding>
-            <element signature="e#1923#1975#0" expanded="true" />
-            <element signature="e#2081#2141#0" expanded="true" />
           </folding>
         </state>
       </provider>
