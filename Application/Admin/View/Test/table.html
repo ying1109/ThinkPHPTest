@@ -6,19 +6,6 @@
 	<link rel="stylesheet" type="text/css" href="/Public/Admin/css/bootstrap.css">
 </head>
 <body>
-	
-<!-- <div class="panel panel-default">
-	<div class="row">
-		<div class="col-xs-10">
-			<div class="panel-heading">
-				<h3 class="panel-title">Panel title</h3>
-			</div>
-			<div class="panel-body">
-				Panel content
-			</div>
-		</div>
-	</div>
-</div> -->
 
 <div class="panel panel-default">
     <div class="row">
@@ -53,7 +40,7 @@
 
 				<div class="form-group">
 					<div class="col-sm-1 col-sm-offset-1">
-						<button type="submit" id="confirmReceipt" class="btn btn-success" name="check" value="1">确认收货</button>
+						<button type="submit" id="confirmReceipt" class="btn btn-success">提交</button>
 					</div>
 				</div>
 	        </div>
@@ -66,16 +53,48 @@
 <script type="text/javascript" src="/Public/Admin/js/jquery-3.3.1.js"></script>
 <script type="text/javascript" src="/Public/Admin/js/bootstrap.js"></script>
 <script type="text/javascript">
-    $("#confirmReceipt").click(function () {
-        $(this).attr("disabled","disabled");
+    $(function(){
+		$("#confirmReceipt").click(function () {
+			var count = 10;
+			var cound_down = setInterval(countDown, 5000);
+			function countDown() {
+				$("#confirmReceipt").attr("disabled", true);
+				$("#confirmReceipt").val("请等待 " + count + " 秒在点击提交！");
+				if (count == 0) {
+					$("#confirmReceipt").val('提交').removeAttr('disabled');
+					clearInterval(cound_down);
+				}
+				count--;
+			}
+		})
     });
 
-    $(function(){
-        setInterval("cancelDisabled()", 5000);
-    });
-    function cancelDisabled(){
-        $('#confirmReceipt').removeAttr('disabled');
-    }
+
+//    $(function () {
+//        $('#btn').click(function () {
+//            var count = 10;
+//            var countdown = setInterval(CountDown, 500);
+//            function CountDown() {
+//                $("#btn").attr("disabled", true);
+//                $("#btn").val("Please wait " + count + " seconds!");
+//                if (count == 0) {
+//                    $("#btn").val("点击我").removeAttr("disabled");
+//                    clearInterval(countdown);
+//                }
+//                count--;
+//            }
+//        })
+//    });
+
+
+//    $(function(){
+//        setInterval("cancelDisabled()", 5000);
+//    });
+//    function cancelDisabled(){
+//        $('#confirmReceipt').removeAttr('disabled');
+//    }
+
+
 </script>
 
 </html>

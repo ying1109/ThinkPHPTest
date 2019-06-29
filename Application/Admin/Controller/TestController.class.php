@@ -908,6 +908,23 @@ class TestController extends Controller {
     }
 
 
+    public function editSelect() {
+        $list = M('Test')->select();
+
+        $this->assign('list', $list);
+        $this->display();
+    }
+
+    public function inputSelect() {
+        $arr = array(123, 234, 345, 456, 567);
+        $input = $_POST['input'];
+
+
+
+        $this->ajaxReturn(array('res'=>1, 'msg'=>$input));
+    }
+
+
     
 
 

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EditSelect/.idea/EditSelect.iml" filepath="$PROJECT_DIR$/../EditSelect/.idea/EditSelect.iml" />
       <module fileurl="file://$PROJECT_DIR$/../MyHome/.idea/MyHome.iml" filepath="$PROJECT_DIR$/../MyHome/.idea/MyHome.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ThinkPHPTest.iml" filepath="$PROJECT_DIR$/.idea/ThinkPHPTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../card/.idea/aaa.iml" filepath="$PROJECT_DIR$/../card/.idea/aaa.iml" />
