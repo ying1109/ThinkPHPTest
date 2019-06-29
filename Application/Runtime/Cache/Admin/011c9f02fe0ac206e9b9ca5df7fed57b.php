@@ -22,14 +22,12 @@
 <script type="text/javascript">
     $(function(){
         $("#confirmReceipt").click(function () {
-            var count = 10;
+            var count      = 10;
             var cound_down = setInterval(countDown, 1000);
             $("#confirmReceipt").attr("disabled", true);
             $("#confirmReceipt").text(count + " 秒后提交！");
-            console.log(111);
             function countDown() {
                 count--;
-                console.log(count);
                 $("#confirmReceipt").attr("disabled", true);
                 $("#confirmReceipt").text(count + " 秒后提交！");
                 if (count == 0) {
@@ -37,7 +35,6 @@
                     clearInterval(cound_down);
                 }
             }
-//            var cound_down = setInterval(countDown, 1000);
         })
     });
 </script>
