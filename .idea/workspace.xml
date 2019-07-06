@@ -34,18 +34,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MarketSalesController.class.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MarketSalesController.class.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-97">
-              <caret line="5269" column="36" lean-forward="false" selection-start-line="5269" selection-start-column="36" selection-end-line="5269" selection-end-column="36" />
+            <state relative-caret-position="-198">
+              <caret line="2921" column="70" lean-forward="true" selection-start-line="2921" selection-start-column="70" selection-end-line="2921" selection-end-column="70" />
               <folding>
                 <element signature="e#33#54#0#PHP" expanded="true" />
                 <element signature="e#27094#31900#0#PHP" expanded="true" />
                 <element signature="e#29011#30463#0#PHP" expanded="false" />
                 <element signature="e#31922#37532#0#PHP" expanded="true" />
                 <element signature="e#107834#115591#0#PHP" expanded="true" />
-                <element signature="e#131320#135277#0#PHP" expanded="true" />
+                <element signature="e#115613#120163#0#PHP" expanded="true" />
                 <element signature="e#132413#132445#0#PHP" expanded="false" />
                 <element signature="e#132767#132782#0#PHP" expanded="false" />
                 <element signature="e#132969#132979#0#PHP" expanded="false" />
@@ -54,17 +54,18 @@
                 <element signature="e#209691#215759#0#PHP" expanded="true" />
                 <element signature="e#232276#236875#0#PHP" expanded="true" />
                 <element signature="e#246883#246901#0#PHP" expanded="true" />
-                <element signature="e#250757#252036#0#PHP" expanded="true" />
-                <element signature="e#254463#258467#0#PHP" expanded="true" />
-                <element signature="e#258491#261226#0#PHP" expanded="true" />
-                <element signature="e#447448#447543#0#PHP" expanded="true" />
-                <marker date="1562399064600" expanded="true" signature="330085:330399" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-                <marker date="1562399064600" expanded="true" signature="341874:342205" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-                <marker date="1562399064600" expanded="true" signature="344824:345106" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-                <marker date="1562399064600" expanded="true" signature="371573:371898" ph="select o.*,m... ${C('DB_PREFIX')}" />
-                <marker date="1562399064600" expanded="true" signature="385164:385498" ph="select o.*,m... ${C('DB_PREFIX')}" />
-                <marker date="1562399064600" expanded="true" signature="394938:395297" ph="select o.*,m... ${C('DB_PREFIX')}" />
-                <marker date="1562399064600" expanded="true" signature="407492:407816" ph="select p.*,p... ${C('DB_PREFIX')}" />
+                <element signature="e#246906#250534#0#PHP" expanded="true" />
+                <element signature="e#250553#251832#0#PHP" expanded="true" />
+                <element signature="e#254259#258263#0#PHP" expanded="true" />
+                <element signature="e#258287#261022#0#PHP" expanded="true" />
+                <element signature="e#447244#447339#0#PHP" expanded="true" />
+                <marker date="1562403107534" expanded="true" signature="329881:330195" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+                <marker date="1562403107534" expanded="true" signature="341670:342001" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+                <marker date="1562403107534" expanded="true" signature="344620:344902" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+                <marker date="1562403107534" expanded="true" signature="371369:371694" ph="select o.*,m... ${C('DB_PREFIX')}" />
+                <marker date="1562403107534" expanded="true" signature="384960:385294" ph="select o.*,m... ${C('DB_PREFIX')}" />
+                <marker date="1562403107534" expanded="true" signature="394734:395093" ph="select o.*,m... ${C('DB_PREFIX')}" />
+                <marker date="1562403107534" expanded="true" signature="407288:407612" ph="select p.*,p... ${C('DB_PREFIX')}" />
               </folding>
             </state>
           </provider>
@@ -82,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MarketSalesFinanceController.class.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MarketSalesFinanceController.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesFinanceController.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -142,9 +143,9 @@
       <find>productClass(</find>
       <find>&lt;script</find>
       <find>生成二维码</find>
-      <find>生成海报</find>
-      <find>createminiQR</find>
       <find>分享</find>
+      <find>createminiQR</find>
+      <find>生成海报</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -631,12 +632,12 @@
       <workItem from="1562220494417" duration="15727000" />
       <workItem from="1562288793440" duration="19880000" />
       <workItem from="1562320560307" duration="7982000" />
-      <workItem from="1562374971829" duration="15329000" />
+      <workItem from="1562374971829" duration="18150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1877269000" />
+    <option name="totallyTimeSpent" value="1880090000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1112,40 +1113,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-97">
-          <caret line="5269" column="36" lean-forward="false" selection-start-line="5269" selection-start-column="36" selection-end-line="5269" selection-end-column="36" />
-          <folding>
-            <element signature="e#33#54#0#PHP" expanded="true" />
-            <element signature="e#27094#31900#0#PHP" expanded="true" />
-            <element signature="e#29011#30463#0#PHP" expanded="false" />
-            <element signature="e#31922#37532#0#PHP" expanded="true" />
-            <element signature="e#107834#115591#0#PHP" expanded="true" />
-            <element signature="e#131320#135277#0#PHP" expanded="true" />
-            <element signature="e#132413#132445#0#PHP" expanded="false" />
-            <element signature="e#132767#132782#0#PHP" expanded="false" />
-            <element signature="e#132969#132979#0#PHP" expanded="false" />
-            <element signature="e#135303#151070#0#PHP" expanded="true" />
-            <element signature="e#164156#173116#0#PHP" expanded="true" />
-            <element signature="e#209691#215759#0#PHP" expanded="true" />
-            <element signature="e#232276#236875#0#PHP" expanded="true" />
-            <element signature="e#246883#246901#0#PHP" expanded="true" />
-            <element signature="e#250757#252036#0#PHP" expanded="true" />
-            <element signature="e#254463#258467#0#PHP" expanded="true" />
-            <element signature="e#258491#261226#0#PHP" expanded="true" />
-            <element signature="e#447448#447543#0#PHP" expanded="true" />
-            <marker date="1562399064600" expanded="true" signature="330085:330399" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-            <marker date="1562399064600" expanded="true" signature="341874:342205" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-            <marker date="1562399064600" expanded="true" signature="344824:345106" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-            <marker date="1562399064600" expanded="true" signature="371573:371898" ph="select o.*,m... ${C('DB_PREFIX')}" />
-            <marker date="1562399064600" expanded="true" signature="385164:385498" ph="select o.*,m... ${C('DB_PREFIX')}" />
-            <marker date="1562399064600" expanded="true" signature="394938:395297" ph="select o.*,m... ${C('DB_PREFIX')}" />
-            <marker date="1562399064600" expanded="true" signature="407492:407816" ph="select p.*,p... ${C('DB_PREFIX')}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index06.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
@@ -1163,6 +1130,41 @@
           <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
           <folding>
             <element signature="e#64#12186#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="2921" column="70" lean-forward="true" selection-start-line="2921" selection-start-column="70" selection-end-line="2921" selection-end-column="70" />
+          <folding>
+            <element signature="e#33#54#0#PHP" expanded="true" />
+            <element signature="e#27094#31900#0#PHP" expanded="true" />
+            <element signature="e#29011#30463#0#PHP" expanded="false" />
+            <element signature="e#31922#37532#0#PHP" expanded="true" />
+            <element signature="e#107834#115591#0#PHP" expanded="true" />
+            <element signature="e#115613#120163#0#PHP" expanded="true" />
+            <element signature="e#132413#132445#0#PHP" expanded="false" />
+            <element signature="e#132767#132782#0#PHP" expanded="false" />
+            <element signature="e#132969#132979#0#PHP" expanded="false" />
+            <element signature="e#135303#151070#0#PHP" expanded="true" />
+            <element signature="e#164156#173116#0#PHP" expanded="true" />
+            <element signature="e#209691#215759#0#PHP" expanded="true" />
+            <element signature="e#232276#236875#0#PHP" expanded="true" />
+            <element signature="e#246883#246901#0#PHP" expanded="true" />
+            <element signature="e#246906#250534#0#PHP" expanded="true" />
+            <element signature="e#250553#251832#0#PHP" expanded="true" />
+            <element signature="e#254259#258263#0#PHP" expanded="true" />
+            <element signature="e#258287#261022#0#PHP" expanded="true" />
+            <element signature="e#447244#447339#0#PHP" expanded="true" />
+            <marker date="1562403107534" expanded="true" signature="329881:330195" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+            <marker date="1562403107534" expanded="true" signature="341670:342001" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+            <marker date="1562403107534" expanded="true" signature="344620:344902" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+            <marker date="1562403107534" expanded="true" signature="371369:371694" ph="select o.*,m... ${C('DB_PREFIX')}" />
+            <marker date="1562403107534" expanded="true" signature="384960:385294" ph="select o.*,m... ${C('DB_PREFIX')}" />
+            <marker date="1562403107534" expanded="true" signature="394734:395093" ph="select o.*,m... ${C('DB_PREFIX')}" />
+            <marker date="1562403107534" expanded="true" signature="407288:407612" ph="select p.*,p... ${C('DB_PREFIX')}" />
           </folding>
         </state>
       </provider>
