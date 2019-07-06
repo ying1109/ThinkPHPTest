@@ -34,14 +34,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MarketSalesController.class.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MarketSalesController.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-97">
+              <caret line="5269" column="36" lean-forward="false" selection-start-line="5269" selection-start-column="36" selection-end-line="5269" selection-end-column="36" />
               <folding>
                 <element signature="e#33#54#0#PHP" expanded="true" />
-                <element signature="e#87#447216#0#PHP" expanded="true" />
                 <element signature="e#27094#31900#0#PHP" expanded="true" />
                 <element signature="e#29011#30463#0#PHP" expanded="false" />
                 <element signature="e#31922#37532#0#PHP" expanded="true" />
@@ -52,42 +51,44 @@
                 <element signature="e#132969#132979#0#PHP" expanded="false" />
                 <element signature="e#135303#151070#0#PHP" expanded="true" />
                 <element signature="e#164156#173116#0#PHP" expanded="true" />
-                <element signature="e#250426#251705#0#PHP" expanded="true" />
-                <element signature="e#254132#258136#0#PHP" expanded="true" />
-                <element signature="e#258160#260895#0#PHP" expanded="true" />
-                <element signature="e#447117#447212#0#PHP" expanded="true" />
-                <marker date="1562322433615" expanded="true" signature="329754:330068" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-                <marker date="1562322433615" expanded="true" signature="341543:341874" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-                <marker date="1562322433615" expanded="true" signature="344493:344775" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-                <marker date="1562322433615" expanded="true" signature="371242:371567" ph="select o.*,m... ${C('DB_PREFIX')}" />
-                <marker date="1562322433615" expanded="true" signature="384833:385167" ph="select o.*,m... ${C('DB_PREFIX')}" />
-                <marker date="1562322433615" expanded="true" signature="394607:394966" ph="select o.*,m... ${C('DB_PREFIX')}" />
-                <marker date="1562322433615" expanded="true" signature="407161:407485" ph="select p.*,p... ${C('DB_PREFIX')}" />
+                <element signature="e#209691#215759#0#PHP" expanded="true" />
+                <element signature="e#232276#236875#0#PHP" expanded="true" />
+                <element signature="e#246883#246901#0#PHP" expanded="true" />
+                <element signature="e#250757#252036#0#PHP" expanded="true" />
+                <element signature="e#254463#258467#0#PHP" expanded="true" />
+                <element signature="e#258491#261226#0#PHP" expanded="true" />
+                <element signature="e#447448#447543#0#PHP" expanded="true" />
+                <marker date="1562399064600" expanded="true" signature="330085:330399" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+                <marker date="1562399064600" expanded="true" signature="341874:342205" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+                <marker date="1562399064600" expanded="true" signature="344824:345106" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+                <marker date="1562399064600" expanded="true" signature="371573:371898" ph="select o.*,m... ${C('DB_PREFIX')}" />
+                <marker date="1562399064600" expanded="true" signature="385164:385498" ph="select o.*,m... ${C('DB_PREFIX')}" />
+                <marker date="1562399064600" expanded="true" signature="394938:395297" ph="select o.*,m... ${C('DB_PREFIX')}" />
+                <marker date="1562399064600" expanded="true" signature="407492:407816" ph="select p.*,p... ${C('DB_PREFIX')}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MarketSalesFinanceController.class.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="APIController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../card/Application/User/Controller/APIController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-824">
+              <caret line="656" column="81" lean-forward="false" selection-start-line="656" selection-start-column="81" selection-end-line="656" selection-end-column="81" />
+              <folding>
+                <element signature="e#13211#15360#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarketSalesFinanceController.class.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesFinanceController.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
               <folding>
                 <element signature="e#64#12186#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index04.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index04.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="35" column="68" lean-forward="false" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
-              <folding>
-                <element signature="e#1418#1521#0" expanded="true" />
-                <element signature="e#1592#1696#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,9 +115,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>客户列表</find>
-      <find>$datas_customer</find>
-      <find>$company_id</find>
       <find>$data</find>
       <find>$MarketSalesCustomer</find>
       <find>Customer</find>
@@ -132,7 +130,6 @@
       <find>confirm</find>
       <find>模板</find>
       <find>生成</find>
-      <find>生成海报</find>
       <find>createShareImg</find>
       <find>administrators</find>
       <find>leavePersonalList</find>
@@ -144,6 +141,10 @@
       <find>addNewAlbum</find>
       <find>productClass(</find>
       <find>&lt;script</find>
+      <find>生成二维码</find>
+      <find>生成海报</find>
+      <find>createminiQR</find>
+      <find>分享</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -207,11 +208,11 @@
         <option value="$PROJECT_DIR$/Public/Plugin/js/show_ads.js" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Plugin/index03.html" />
         <option value="$PROJECT_DIR$/Public/Plugin/js/popupWindow.js" />
-        <option value="$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php" />
         <option value="$PROJECT_DIR$/Plugin/three-states-switch-jtoggler/index.html" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Plugin/index04.html" />
         <option value="$PROJECT_DIR$/Public/Plugin/css/jtoggler.styles.css" />
         <option value="$PROJECT_DIR$/../djcq/Application/Admin/Controller/OrderController.class.php" />
+        <option value="$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php" />
       </list>
     </option>
   </component>
@@ -311,60 +312,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkPHPTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkPHPTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkPHPTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -372,7 +319,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="H:/Download/Bootstrap-4-Chosen-Plugin/Bootstrap-4-Chosen-Plugin" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
@@ -684,12 +631,12 @@
       <workItem from="1562220494417" duration="15727000" />
       <workItem from="1562288793440" duration="19880000" />
       <workItem from="1562320560307" duration="7982000" />
-      <workItem from="1562374971829" duration="2130000" />
+      <workItem from="1562374971829" duration="15329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1864070000" />
+    <option name="totallyTimeSpent" value="1877269000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -701,7 +648,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18215811" sideWeight="0.49628845" order="0" side_tool="false" content_ui="combo" />
@@ -781,56 +728,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/StorePreferentialController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/WxcallbackController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/WxOpenAPIController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/WxpayAPIController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/WxWidgetController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesOrderController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="1098" column="42" lean-forward="false" selection-start-line="1098" selection-start-column="42" selection-end-line="1098" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MyHome/app/Http/Controllers/Admin/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../MyHome/app/Http/Controllers/Admin/CommonController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1033,7 +930,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index02.html">
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index04.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
@@ -1089,7 +986,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index03.html">
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index05.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
@@ -1124,17 +1021,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index04.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="35" column="68" lean-forward="false" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
-          <folding>
-            <element signature="e#1418#1521#0" expanded="true" />
-            <element signature="e#1592#1696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSurveyController.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1144">
@@ -1150,34 +1036,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesFinanceController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
-          <folding>
-            <element signature="e#64#12186#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../home/app/Http/Controllers/Admin/AdminsController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
           <folding>
-            <element signature="e#250#1074#0#PHP" expanded="true" />
+            <element signature="e#250#1074#0#PHP" expanded="false" />
             <marker date="1555660585450" expanded="true" signature="381:400" ph="select * fro... admin" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
+    <entry file="file://$PROJECT_DIR$/../card/Application/User/Controller/APIController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-824">
+          <caret line="656" column="81" lean-forward="false" selection-start-line="656" selection-start-column="81" selection-end-line="656" selection-end-column="81" />
+          <folding>
+            <element signature="e#13211#15360#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.php.core/__language__/9e3f44b6/gd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="222" column="3" lean-forward="true" selection-start-line="222" selection-start-column="3" selection-end-line="222" selection-end-column="3" />
+          <folding>
+            <element signature="e#5334#5692#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Common/Common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="289" column="1" lean-forward="true" selection-start-line="289" selection-start-column="1" selection-end-line="289" selection-end-column="1" />
+          <folding>
+            <element signature="n#mergeImage#0;n#!!top" expanded="true" />
+            <element signature="n#mergeFill#0;n#!!top" expanded="true" />
+            <element signature="n#hex2rgb#0;n#!!top" expanded="true" />
+            <element signature="n#request#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/repeatable-form-elements-multiinput/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="5269" column="36" lean-forward="false" selection-start-line="5269" selection-start-column="36" selection-end-line="5269" selection-end-column="36" />
           <folding>
             <element signature="e#33#54#0#PHP" expanded="true" />
-            <element signature="e#87#447216#0#PHP" expanded="true" />
             <element signature="e#27094#31900#0#PHP" expanded="true" />
             <element signature="e#29011#30463#0#PHP" expanded="false" />
             <element signature="e#31922#37532#0#PHP" expanded="true" />
@@ -1188,17 +1128,41 @@
             <element signature="e#132969#132979#0#PHP" expanded="false" />
             <element signature="e#135303#151070#0#PHP" expanded="true" />
             <element signature="e#164156#173116#0#PHP" expanded="true" />
-            <element signature="e#250426#251705#0#PHP" expanded="true" />
-            <element signature="e#254132#258136#0#PHP" expanded="true" />
-            <element signature="e#258160#260895#0#PHP" expanded="true" />
-            <element signature="e#447117#447212#0#PHP" expanded="true" />
-            <marker date="1562322433615" expanded="true" signature="329754:330068" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-            <marker date="1562322433615" expanded="true" signature="341543:341874" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-            <marker date="1562322433615" expanded="true" signature="344493:344775" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
-            <marker date="1562322433615" expanded="true" signature="371242:371567" ph="select o.*,m... ${C('DB_PREFIX')}" />
-            <marker date="1562322433615" expanded="true" signature="384833:385167" ph="select o.*,m... ${C('DB_PREFIX')}" />
-            <marker date="1562322433615" expanded="true" signature="394607:394966" ph="select o.*,m... ${C('DB_PREFIX')}" />
-            <marker date="1562322433615" expanded="true" signature="407161:407485" ph="select p.*,p... ${C('DB_PREFIX')}" />
+            <element signature="e#209691#215759#0#PHP" expanded="true" />
+            <element signature="e#232276#236875#0#PHP" expanded="true" />
+            <element signature="e#246883#246901#0#PHP" expanded="true" />
+            <element signature="e#250757#252036#0#PHP" expanded="true" />
+            <element signature="e#254463#258467#0#PHP" expanded="true" />
+            <element signature="e#258491#261226#0#PHP" expanded="true" />
+            <element signature="e#447448#447543#0#PHP" expanded="true" />
+            <marker date="1562399064600" expanded="true" signature="330085:330399" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+            <marker date="1562399064600" expanded="true" signature="341874:342205" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+            <marker date="1562399064600" expanded="true" signature="344824:345106" ph="select cs.*,... ${C(&quot;DB_PREFIX&quot;)}" />
+            <marker date="1562399064600" expanded="true" signature="371573:371898" ph="select o.*,m... ${C('DB_PREFIX')}" />
+            <marker date="1562399064600" expanded="true" signature="385164:385498" ph="select o.*,m... ${C('DB_PREFIX')}" />
+            <marker date="1562399064600" expanded="true" signature="394938:395297" ph="select o.*,m... ${C('DB_PREFIX')}" />
+            <marker date="1562399064600" expanded="true" signature="407492:407816" ph="select p.*,p... ${C('DB_PREFIX')}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Plugin/index06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="35" column="68" lean-forward="false" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
+          <folding>
+            <element signature="e#1418#1521#0" expanded="true" />
+            <element signature="e#1592#1696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../card/Application/Home/Controller/MarketSalesFinanceController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="69" lean-forward="true" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+          <folding>
+            <element signature="e#64#12186#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

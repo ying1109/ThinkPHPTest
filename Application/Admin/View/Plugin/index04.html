@@ -4,40 +4,128 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>jQuery jToggler iOS Switch Demos</title>
-    <link rel="stylesheet" href="/Public/Plugin/css/jtoggler.styles.css"/>
-    <link rel="stylesheet" href="https://www.jqueryscript.net/css/jquerysctipttop.css">
+    <title>Bootstrap 4 Chosen jQuery Plugin Examples</title>
+    <link rel="stylesheet" type="text/css" href="/Public/Admin/css/bootstrap.css">
+    <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet"> -->
+    <link href="/Public/Plugin/css/component-chosen.css" rel="stylesheet"/>
 </head>
-<body>
+<body> 
 <div style="margin-top: 30px;margin-left: 30px;">
-    <h1>jQuery jToggler iOS Switch Demos</h1>
-    <h2>Two States</h2>
-    <input type="checkbox" class="jtoggler">
-    <input type="checkbox" checked class="jtoggler"><br><br>
-    <input type="checkbox" disabled class="jtoggler">
-    <input type="checkbox" checked disabled class="jtoggler">
-    <input type="checkbox" class="jtoggler" data-jtlabel="jQueryScript">
-    <h2>Three States</h2>
-    <input type="checkbox" class="jtoggler" data-jtmulti-state>
-    <input type="checkbox" class="jtoggler" disabled data-jtmulti-state>
+
+    <div class="col-md-4 mb-5">
+        <label>Single:</label>
+        <select id="single" class="form-control form-control-chosen" data-placeholder="Please select...">
+            <option></option>
+            <option>Option One</option>
+            <option>Option Two</option>
+            <option>Option Three</option>
+            <option>Option Four</option>
+            <option>Option Five</option>
+            <option>Option Six</option>
+            <option>Option Seven</option>
+            <option>Option Eight</option>
+        </select>
+    </div>
+    <div class="col-md-4 mb-5">
+        <label>Single (required):</label>
+        <select id="required" class="form-control form-control-chosen-required" data-placeholder="Please select...">
+            <option></option>
+            <option>Option One</option>
+            <option>Option Two</option>
+            <option>Option Three</option>
+            <option>Option Four</option>
+            <option>Option Five</option>
+            <option>Option Six</option>
+            <option>Option Seven</option>
+            <option>Option Eight</option>
+        </select>
+    </div>
+    <div class="col-md-4 mb-5">
+        <label>Multiple:</label>
+        <select id="multiple" class="form-control form-control-chosen" data-placeholder="Please select..." multiple>
+            <option></option>
+            <option>Option One</option>
+            <option>Option Two</option>
+            <option>Option Three</option>
+            <option>Option Four</option>
+            <option>Option Five</option>
+            <option>Option Six</option>
+            <option>Option Seven</option>
+            <option>Option Eight</option>
+        </select>
+    </div>
+    <div class="col-md-4 mb-5">
+        <label>Optgroup:</label>
+        <select id="optgroup" class="form-control form-control-chosen" data-placeholder="Please select..." multiple>
+            <optgroup label="Label A">
+                <option>Option One</option>
+                <option>Option Two</option>
+                <option>Option Three</option>
+                <option>Option Four</option>
+            </optgroup>
+            <optgroup label="Label B">
+                <option>Option Five</option>
+                <option>Option Six</option>
+                <option>Option Seven</option>
+                <option>Option Eight</option>
+            </optgroup>
+      </select>
+    </div>
+    <div class="col-md-4 mb-5">
+        <label>Clickable optgroup:</label>
+        <select id="optgroup_clickable" class="form-control form-control-chosen-optgroup" title="clickable_optgroup" data-placeholder="Please select..." multiple>
+            <optgroup label="Label A">
+                <option>Option One</option>
+                <option>Option Two</option>
+                <option>Option Three</option>
+                <option>Option Four</option>
+            </optgroup>
+            <optgroup label="Label B">
+                <option>Option Five</option>
+                <option>Option Six</option>
+                <option>Option Seven</option>
+                <option>Option Eight</option>
+            </optgroup>
+        </select>
+    </div>
 </div>
 </body>
 
 <script type="text/javascript" src="/Public/Admin/js/jquery-3.3.1.js"></script>
-<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-<script type="text/javascript" src="/Public/Plugin/js/jtoggler.js"></script>
-<script>
-    $(document).ready(() => {
-        $('.jtoggler').jtoggler();
-        $(document).on('jt:toggled', function (event, target) {
-            console.log(event, target);
-            console.info($(target).prop('checked'))
-        });
-        $(document).on('jt:toggled:multi', function (event, target) {
-            console.log(event, target);
-            console.info($(target).parent().index())
-        });
+<script type="text/javascript" src="/Public/Plugin/js/bootstrap.js"></script>
+<script type="text/javascript" src="/Public/Plugin/js/tether.js"></script>
+<script type="text/javascript" src="/Public/Plugin/js/chosen.jquery.min.js"></script>
+<script type="text/javascript">
+    $('.form-control-chosen').chosen({
+        allow_single_deselect: true,
+        width: '100%'
     });
+    $('.form-control-chosen-required').chosen({
+        allow_single_deselect: false,
+        width: '100%'
+    });
+    $('.form-control-chosen-search-threshold-100').chosen({
+        allow_single_deselect: true,
+        disable_search_threshold: 100,
+        width: '100%'
+    });
+    $('.form-control-chosen-optgroup').chosen({
+        width: '100%'
+    });
+
+    $(function() {
+        $('[title="clickable_optgroup"]').addClass('chosen-container-optgroup-clickable');
+    });
+    $(document).on('click', '[title="clickable_optgroup"] .group-result', function() {
+        var unselected = $(this).nextUntil('.group-result').not('.result-selected');
+        if(unselected.length) {
+          unselected.trigger('mouseup');
+      } else {
+          $(this).nextUntil('.group-result').each(function() {
+            $('a.search-choice-close[data-option-array-index="' + $(this).data('option-array-index') + '"]').trigger('click');
+        });
+      }
+  });
 </script>
 
 </html>

@@ -4,47 +4,55 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>jQuery multiInput Plugin Example</title>
+    <title>jQuery Editable Select Plugin Examples</title>
     <link rel="stylesheet" type="text/css" href="/Public/Admin/css/bootstrap.css">
-    <link href="/Public/Plugin/css/jq.multiinput.min.css" rel="stylesheet"/>
-    <link href="/Public/Admin/css/font-awesome.min.css" rel="stylesheet"/>
-    <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+    <link href="/Public/Plugin/css/jquery-editable-select.css" rel="stylesheet"/>
 </head>
 <body>
 
 <div class="col-sm-2" style="margin-top:50px;margin-left: 30px;">
-    <form>
-        <textarea class="form-control" id="participants" name="participants">[{"tn_firstname":"jquery","tn_lastname":"script"},{"tn_firstname":"html5","tn_lastname":"css3"}]</textarea>
-    </form>
+    <select class="form-control" id="basic111">
+        <option>Alfa Romeo</option>
+        <option>Audi</option>
+        <option>BMW</option>
+        <option>Mercedes</option>
+        <option>Mini</option>
+        <option>Nissan</option>
+        <option>Opel</option>
+        <option>Peugeot</option>
+        <option>Porsche</option>
+        <option>Renault</option>
+        <option>Smart</option>
+        <option>Volkswagen</option>
+        <option>Volvo</option>
+    </select>
 </div>
 
-</body>
+<div class="col-sm-2" style="margin-top:50px;margin-left: 30px;">
+    <select class="form-control" id="basic222">
+        <option>杨莹莹</option>
+        <option>钱语嫣</option>
+        <option>李子衿</option>
+        <option>孙浅浅</option>
+        <option>杨氏字辈</option>
+        <option>周大宝</option>
+        <option>浅笑花开</option>
+        <option>折扇戏美人</option>
+        <option>掀纱窥君容</option>
+        <option>君子世无双</option>
+        <option>君忘</option>
+    </select>
+</div>
 
+<!--<script src="http://code.jquery.com/jquery-latest.min.js"></script>-->
 <script type="text/javascript" src="/Public/Admin/js/jquery-3.3.1.js"></script>
-<script src="/Public/Plugin/js/bootstrap.js"></script>
-<script type="text/javascript" src="/Public/Plugin/js/jq.multiinput.js"></script>
+<script src="/Public/Plugin/js/jquery-editable-select.js"></script>
 <script>
-    $(document).ready(function () {
-        $('#participants').multiInput({
-            json: true,
-            input: $('<div class="row inputElement">\n' +
-                '<div class="multiinput-title col-xs-12">Teilnehmer <span class="number">1</span></div>\n' +
-                '<div class="form-group col-xs-6">\n' +
-                '<input class="form-control" name="tn_firstname" placeholder="Vorname" type="text">\n' +
-                '</div>\n' +
-                '<div class="form-group col-xs-6">\n' +
-                '<input class="form-control" name="tn_lastname" placeholder="Nachname" type="text">\n' +
-                '</div>\n' +
-                '</div>\n'),
-            limit: 10,
-            onElementAdd: function (el, plugin) {
-                console.log(plugin.elementCount);
-            },
-            onElementRemove: function (el, plugin) {
-                console.log(plugin.elementCount);
-            }
-        });
-    });
+    window.onload = function () {
+        $('#basic111').editableSelect();
+        $('#basic222').editableSelect();
+    }
 </script>
 
+</body>
 </html>
