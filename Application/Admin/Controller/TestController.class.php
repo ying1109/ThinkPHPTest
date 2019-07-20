@@ -907,7 +907,16 @@ class TestController extends Controller {
         die;
     }
 
-    
+    public function zuobiao(){
+	    if (IS_POST) {
+            
+        }
+
+        $this->display();
+    }
+
+
+
 
 
 }
