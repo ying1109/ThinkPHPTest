@@ -915,6 +915,18 @@ class TestController extends Controller {
         $this->display();
     }
 
+    public function strNum () {
+        echo "<pre>";
+        var_dump('hunanjianghaifalvzixunyouxiangon');
+        var_dump('xiaoxiongwenhuachuanboyouxiangon');
+        die;
+    }
+
+    // 间隔几秒后才能点击
+    public function clickBtn () {
+        $id = $_POST['order_id'];
+        $this->ajaxReturn($id);
+    }
 
 
 

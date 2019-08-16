@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/../djcq" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/../dpzl" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/../home" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../myj" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/../oa_dev" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/../project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../ying" vcs="svn" />
