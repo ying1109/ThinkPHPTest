@@ -922,6 +922,17 @@ class TestController extends Controller {
         die;
     }
 
+    public function addAdd () {
+        $a = 10;
+        $b = 10;
+
+        echo "<pre>";
+        var_dump($a++);
+        var_dump(++$b);
+        die;
+
+    }
+
     // 间隔几秒后才能点击
     public function clickBtn () {
         $id = $_POST['order_id'];
