@@ -1,6 +1,7 @@
 <?php
 namespace Admin\Controller;
 use Think\Controller;
+header('Content-Type:text/html;Charset=utf-8');
 class LoginController extends Controller {
     public function login(){
         session('[start]');
@@ -13,7 +14,8 @@ class LoginController extends Controller {
         if( $username == '' || $password == '' ){
             $this->ajaxReturn(array('res'=>0, 'msg'=>'账号和密码不能为空'));
         }else{
-            $info = M('Admin')->where(array('username'=>$username, 'password'=>md5($password)))->find();
+            // $info = M('Admin')->where(array('username'=>$username, 'password'=>md5($password)))->find();
+            $info = M('Admin')->where(array('username'=>$username, 'password'=>$password))->find();
             if( !$info ){
                 $this->ajaxReturn(array('res'=>0, 'msg'=>'账号或密码错误'));
             }else{
@@ -42,5 +44,36 @@ class LoginController extends Controller {
         session('admin_info', null);
         session('[destroy]');
         $this->redirect('Login/login');
+    }
+
+
+    public function login1 () {
+        if (IS_POST) {
+            // $map['username'] = $_POST['username'];
+            // $map['_string'] = 'username=' . $_POST['password'] . 'OR 1=1';
+            // $map['password'] = $_POST['password'];
+
+            $username = $_POST['username'];
+            $password = $_POST['password'];
+
+            // $info = M('Admin')->where($map)->find();
+            $info = M('Admin')->where(array ('username'=>$username, 'password'=>$password, ))->find();
+            if ($info) {
+                echo "<pre>";
+                var_dump($info);
+                var_dump( 'YES' );
+                echo M()->getLastSql();
+                die;
+            } else {
+                echo "<pre>";
+                var_dump($info);
+                var_dump('NO');
+                echo M()->getLastSql();
+                die;
+            }
+
+        }
+
+        $this->display();
     }
 }

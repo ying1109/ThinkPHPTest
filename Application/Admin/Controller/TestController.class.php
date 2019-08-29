@@ -219,9 +219,6 @@ class TestController extends Controller {
 				"price"    => 75
 	        ]
 	    ];
-        if (condition) {
-        	# code...
-        }
 
 
 	    echo "<pre>";
@@ -939,6 +936,139 @@ class TestController extends Controller {
         $this->ajaxReturn($id);
     }
 
+    public function ipToAddress () {
+        $url = 'http://ip.taobao.com/service/getIpInfo.php?ip=218.77.106.129';
+        $ipContent = file_get_contents($url);
+        $ipContent = json_decode($ipContent,true);
+
+        echo "<pre>";
+        var_dump($ipContent);
+        die;
+    }
+
+    // 回滚
+    public function rollback () {
+        try{
+            // M()->startTrans();
+            D()->startTrans();
+            $table1 = D( 'Table1' );
+            $table2 = D( 'Table2' );
+            $table3 = D( 'Table3' );
+            $table4 = D( 'Table4' );
+            $table5 = D( 'Table5' );
+
+            $map_table1['id'] = 1;
+            $data_table1['v'] = 111;
+            // $res_table1 = M('table1')->where($map_table1)->save($data_table1);
+            $res_table1 = $table1->update($map_table1, $data_table1);
+
+            $map_table2['id'] = 1;
+            $data_table2['v'] = 2;
+            // $res_table2 = M('table2')->where($map_table2)->save($data_table2);
+            $res_table2 = $table2->update($map_table2, $data_table2);
+
+            $data_table3['k'] = 1;
+            $data_table3['v'] = 2;
+            // $res_table3 = M('table3')->add($data_table3);
+            $res_table3 = $table3->add($data_table3);
+
+            $data_table4['k'] = 1;
+            $data_table4['v'] = 2;
+            // $res_table4 = M('table4')->add($data_table4);
+            $res_table4 = $table4->add($data_table4);
+
+            $data_table5['k'] = 1;
+            $data_table5['v'] = 2;
+            // $res_table5 = M('table5')->add($data_table5);
+            $res_table5 = $table5->add($data_table5);
+
+            if ($res_table1['status'] == 1 && $res_table2['status'] == 1 && $res_table3['status'] == 1 && $res_table4['status'] == 1 && $res_table5['status'] == 1) {
+                // M()->commit();
+                D()->commit();
+            } else {
+                // M()->rollback();
+                D()->rollback();
+            }
+
+
+            // if ($res_table1 == 1 && $res_table2 == 1) {
+            //     echo "<pre>";
+            //     var_dump('commit');
+            //
+            //     M()->commit();
+            // } else {
+            //     echo "<pre>";
+            //     var_dump('rollback');
+            //
+            //     M()->rollback();
+            // }
+
+        } catch (Exception $e) {
+            echo "修改异常！";
+            M()->rollback();
+        }
+
+    }
+
+    public function ManyOneArrToTwoArr () {
+        $arr1 = array('fdipzone', 'terry', 'alex');
+        $arr2 = array(18, 19, 20);
+        $arr3 = array('programmer', 'designer', 'tester');
+
+        $keys = array('name','age','profession');
+
+        $result = $this->array_merge_more($keys, $arr1, $arr2, $arr3);
+
+        echo "<pre>";
+        var_dump($result);
+        die;
+
+
+    }
+
+    public function array_merge_more ($keys, ...$arrs) {
+        // 检查参数是否正确
+        if (!$keys || !is_array( $keys ) || !$arrs || !is_array( $arrs ) || count( $keys ) != count( $arrs )) {
+            return array ();
+        }
+
+        // 一维数组中最大长度
+        $max_len = 0;    // 整理数据，把所有一维数组转重新索引
+        for ($i = 0, $len = count( $arrs ); $i < $len; $i++) {
+            $arrs[ $i ] = array_values( $arrs[ $i ] );
+            if (count( $arrs[ $i ] ) > $max_len) {
+                $max_len = count( $arrs[ $i ] );
+            }
+        }
+
+        // 合拼数据
+        $result = array ();
+        for ($i = 0; $i < $max_len; $i++) {
+            $tmp = array ();
+            foreach ($keys as $k => $v) {
+                if (isset( $arrs[ $k ][ $i ] )) {
+                    $tmp[ $v ] = $arrs[ $k ][ $i ];
+                }
+            }
+            $result[] = $tmp;
+        }
+
+        return $result;
+    }
+
+    public function oneToMany () {
+        $arr1 = array ('qianqian', 'yehua', 'fengjiu');
+        $arr2 = array ('20', '19', '21');
+        $arr3 = array ('165', '170', '169');
+
+        $arr1 = array ('name', 'age', 'height');
+
+        $arr = $this->mergeArray($arr1, $arr2, $arr3, $arr1);
+    }
+
+    public function mergeArray ($arr1, $arr2, $arr3, $arr1) {
+
+    }
 
 
 

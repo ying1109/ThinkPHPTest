@@ -1,0 +1,317 @@
+[ 2019-08-22T16:07:05+08:00 ] 127.0.0.1 /admin.php/test/identity.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001409s ]
+
+[ 2019-08-22T16:07:14+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001380s ]
+NOTIC: [2048] Declaration of Admin\Model\AdminModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\AdminModel.class.php 第 5 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.012466s ]
+NOTIC: [2048] Declaration of Admin\Model\Table1Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table1Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.014521s ]
+NOTIC: [2048] Declaration of Admin\Model\Table2Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table2Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.037937s ]
+NOTIC: [2048] Declaration of Admin\Model\Table3Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table3Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table3` [ RunTime:0.014758s ]
+NOTIC: [2048] Declaration of Admin\Model\Table4Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table4Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table4` [ RunTime:0.011986s ]
+NOTIC: [2048] Declaration of Admin\Model\Table5Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table5Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table5` [ RunTime:0.012725s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.026372s ]
+SQL: SELECT * FROM `admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000427s ]
+
+[ 2019-08-22T16:59:01+08:00 ] 127.0.0.1 /admin.php/test/identity.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.111558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.111667s ]
+
+[ 2019-08-22T16:59:11+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.008958s ]
+SQL: INSERT INTO `table1` (`k`,`v`) VALUES (1,1) [ RunTime:0.001942s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.009221s ]
+SQL: INSERT INTO `table2` (`k`,`v`) VALUES (2,2) [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001155s ]
+
+[ 2019-08-22T17:07:42+08:00 ] 127.0.0.1 /admin.php/test/identity.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001065s ]
+
+[ 2019-08-22T17:07:51+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.014335s ]
+SQL: UPDATE `table1` SET `v`=1 WHERE `id` = 1 [ RunTime:0.005371s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.027706s ]
+SQL: INSERT INTO `table2` (`id`,`v`) VALUES (2,2222) [ RunTime:0.000854s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001178s ]
+
+[ 2019-08-22T17:09:24+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010825s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.010943s ]
+SQL: UPDATE `table1` SET `v`=1 WHERE `id` = 1 [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.011644s ]
+SQL: INSERT INTO `table2` (`id`,`v`) VALUES (2,2222) [ RunTime:0.000713s ]
+ERR: 1062:Duplicate entry '2' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `table2` (`id`,`v`) VALUES (2,2222)
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001533s ]
+
+[ 2019-08-22T17:11:55+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.033467s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.001259s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.063469s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.000614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001211s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001411s ]
+
+[ 2019-08-22T17:14:05+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.010753s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.000317s ]
+
+[ 2019-08-22T17:14:28+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002517s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.058630s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.000468s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.027826s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.001349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001879s ]
+
+[ 2019-08-22T17:18:17+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.012653s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.010111s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.000243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001007s ]
+
+[ 2019-08-22T17:27:32+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.024114s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.000369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003317s ]
+
+[ 2019-08-22T17:33:07+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.008730s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001509s ]
+
+[ 2019-08-22T17:33:58+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.009810s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.010023s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2019-08-22T17:46:36+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.010690s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.011236s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.001474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000931s ]
+
+[ 2019-08-22T17:48:05+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.009922s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.031423s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.000503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000923s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2019-08-22T17:49:55+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.013185s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.002890s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.039090s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `table3` [ RunTime:0.020446s ]
+SQL: INSERT INTO `table3` (`k`,`v`) VALUES (1,2) [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `table4` [ RunTime:0.017762s ]
+SQL: INSERT INTO `table4` (`k`,`v`) VALUES (1,2) [ RunTime:0.000755s ]
+SQL: SHOW COLUMNS FROM `table5` [ RunTime:0.021016s ]
+SQL: INSERT INTO `table5` (`k`,`v`) VALUES (1,2) [ RunTime:0.000911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001370s ]
+
+[ 2019-08-22T17:51:29+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001367s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.026687s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.001033s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.045769s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `table3` [ RunTime:0.015456s ]
+SQL: INSERT INTO `table3` (`k`,`v`) VALUES (1,2) [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `table4` [ RunTime:0.009748s ]
+SQL: INSERT INTO `table4` (`k`,`v`) VALUES (1,2) [ RunTime:0.000352s ]
+SQL: SHOW COLUMNS FROM `table5` [ RunTime:0.013745s ]
+SQL: INSERT INTO `table5` (`k`,`v`) VALUES (1,2) [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001260s ]
+
+[ 2019-08-22T17:59:02+08:00 ] 127.0.0.1 /admin.php/test/rollback.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001887s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead H:\www\ThinkPHPTest\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+NOTIC: [2048] Declaration of Admin\Model\Table1Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table1Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.051098s ]
+NOTIC: [2048] Declaration of Admin\Model\Table2Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table2Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.022323s ]
+NOTIC: [2048] Declaration of Admin\Model\Table3Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table3Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table3` [ RunTime:0.050182s ]
+NOTIC: [2048] Declaration of Admin\Model\Table4Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table4Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table4` [ RunTime:0.013022s ]
+NOTIC: [2048] Declaration of Admin\Model\Table5Model::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) H:\www\ThinkPHPTest\Application\Admin\Model\Table5Model.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `table5` [ RunTime:0.083952s ]
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.051446s ]
+SQL: UPDATE `table1` SET `v`=111 WHERE `id` = 1 [ RunTime:0.001055s ]
+SQL: SHOW COLUMNS FROM `table2` [ RunTime:0.011559s ]
+SQL: UPDATE `table2` SET `v`=2 WHERE `id` = 1 [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `table3` [ RunTime:0.065081s ]
+SQL: INSERT INTO `table3` (`k`,`v`) VALUES (1,2) [ RunTime:0.002776s ]
+SQL: SHOW COLUMNS FROM `table4` [ RunTime:0.010695s ]
+SQL: INSERT INTO `table4` (`k`,`v`) VALUES (1,2) [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `table5` [ RunTime:0.021931s ]
+SQL: INSERT INTO `table5` (`k`,`v`) VALUES (1,2) [ RunTime:0.001788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001973s ]
+

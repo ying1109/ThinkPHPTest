@@ -17,13 +17,13 @@
 				<label>密  码：</label>
 				<input type="password" name="" id="" tabindex="2" maxlength="16"/>
 			</div>
-			<div class="code">
-				<label>验证码：</label>
-				<input type="text" name="" id="code" tabindex="3" maxlength="4"/>
-				<div class="codeImg">
-					<img src="/Public/Admin/img/captcha.jpeg.jpg" />
-				</div>
-			</div>
+			<!--<div class="code">-->
+				<!--<label>验证码：</label>-->
+				<!--<input type="text" name="" id="code" tabindex="3" maxlength="4"/>-->
+				<!--<div class="codeImg">-->
+					<!--<img src="/Public/Admin/img/captcha.jpeg.jpg" />-->
+				<!--</div>-->
+			<!--</div>-->
 			<div class="remember">
 				<input type="checkbox" id="remember" tabindex="4">
 				<label>记住密码</label>
@@ -34,29 +34,17 @@
 		</form>
 	</div>
 
-	<div class="screenbg">
-		<ul>
-			<li><a href="javascript:;"><img src="/Public/Admin/img/tea.jpg"></a></li>
-		</ul>
-	</div>
+	<!--<div class="screenbg">-->
+		<!--<ul>-->
+			<!--<li><a href="javascript:;"><img src="/Public/Admin/img/tea.jpg"></a></li>-->
+		<!--</ul>-->
+	<!--</div>-->
 </body>
 
 <script type="text/javascript" src="/Public/Admin/js/jquery-3.3.1.js"></script>
 <script type="text/javascript">
 	$(function(){
 		$(".screenbg ul li").css("opacity","1");
-		/*var index = 0;
-		var li = $(".screenbg ul li");	
-		var number = li.size();
-		function show(){
-			index = index + 1;
-			if(index <= number - 1){
-				change(index);
-			}else{
-				index = 0;
-				change(index);
-			}
-		}*/
 		//根据窗口宽度生成图片宽度
 		var width = $(window).width();
 		$(".screenbg ul img").css("width",width+"px");
